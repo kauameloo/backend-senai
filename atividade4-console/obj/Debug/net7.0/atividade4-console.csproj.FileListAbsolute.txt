@@ -1,0 +1,15 @@
+C:\Users\44506315871\Desktop\backend\atividade4-console\bin\Debug\net7.0\atividade4-console.exe
+C:\Users\44506315871\Desktop\backend\atividade4-console\bin\Debug\net7.0\atividade4-console.deps.json
+C:\Users\44506315871\Desktop\backend\atividade4-console\bin\Debug\net7.0\atividade4-console.runtimeconfig.json
+C:\Users\44506315871\Desktop\backend\atividade4-console\bin\Debug\net7.0\atividade4-console.dll
+C:\Users\44506315871\Desktop\backend\atividade4-console\bin\Debug\net7.0\atividade4-console.pdb
+C:\Users\44506315871\Desktop\backend\atividade4-console\obj\Debug\net7.0\atividade4-console.csproj.AssemblyReference.cache
+C:\Users\44506315871\Desktop\backend\atividade4-console\obj\Debug\net7.0\atividade4-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44506315871\Desktop\backend\atividade4-console\obj\Debug\net7.0\atividade4-console.AssemblyInfoInputs.cache
+C:\Users\44506315871\Desktop\backend\atividade4-console\obj\Debug\net7.0\atividade4-console.AssemblyInfo.cs
+C:\Users\44506315871\Desktop\backend\atividade4-console\obj\Debug\net7.0\atividade4-console.csproj.CoreCompileInputs.cache
+C:\Users\44506315871\Desktop\backend\atividade4-console\obj\Debug\net7.0\atividade4-console.dll
+C:\Users\44506315871\Desktop\backend\atividade4-console\obj\Debug\net7.0\refint\atividade4-console.dll
+C:\Users\44506315871\Desktop\backend\atividade4-console\obj\Debug\net7.0\atividade4-console.pdb
+C:\Users\44506315871\Desktop\backend\atividade4-console\obj\Debug\net7.0\atividade4-console.genruntimeconfig.cache
+C:\Users\44506315871\Desktop\backend\atividade4-console\obj\Debug\net7.0\ref\atividade4-console.dll

@@ -1,0 +1,15 @@
+C:\Users\44506315871\Desktop\Backend\atividades-console\bin\Debug\net7.0\atividades-console.exe
+C:\Users\44506315871\Desktop\Backend\atividades-console\bin\Debug\net7.0\atividades-console.deps.json
+C:\Users\44506315871\Desktop\Backend\atividades-console\bin\Debug\net7.0\atividades-console.runtimeconfig.json
+C:\Users\44506315871\Desktop\Backend\atividades-console\bin\Debug\net7.0\atividades-console.dll
+C:\Users\44506315871\Desktop\Backend\atividades-console\bin\Debug\net7.0\atividades-console.pdb
+C:\Users\44506315871\Desktop\Backend\atividades-console\obj\Debug\net7.0\atividades-console.csproj.AssemblyReference.cache
+C:\Users\44506315871\Desktop\Backend\atividades-console\obj\Debug\net7.0\atividades-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44506315871\Desktop\Backend\atividades-console\obj\Debug\net7.0\atividades-console.AssemblyInfoInputs.cache
+C:\Users\44506315871\Desktop\Backend\atividades-console\obj\Debug\net7.0\atividades-console.AssemblyInfo.cs
+C:\Users\44506315871\Desktop\Backend\atividades-console\obj\Debug\net7.0\atividades-console.csproj.CoreCompileInputs.cache
+C:\Users\44506315871\Desktop\Backend\atividades-console\obj\Debug\net7.0\atividades-console.dll
+C:\Users\44506315871\Desktop\Backend\atividades-console\obj\Debug\net7.0\refint\atividades-console.dll
+C:\Users\44506315871\Desktop\Backend\atividades-console\obj\Debug\net7.0\atividades-console.pdb
+C:\Users\44506315871\Desktop\Backend\atividades-console\obj\Debug\net7.0\atividades-console.genruntimeconfig.cache
+C:\Users\44506315871\Desktop\Backend\atividades-console\obj\Debug\net7.0\ref\atividades-console.dll
