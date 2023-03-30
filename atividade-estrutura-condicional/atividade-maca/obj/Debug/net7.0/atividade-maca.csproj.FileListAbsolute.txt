@@ -1,0 +1,15 @@
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-maca\bin\Debug\net7.0\atividade-maca.exe
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-maca\bin\Debug\net7.0\atividade-maca.deps.json
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-maca\bin\Debug\net7.0\atividade-maca.runtimeconfig.json
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-maca\bin\Debug\net7.0\atividade-maca.dll
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-maca\bin\Debug\net7.0\atividade-maca.pdb
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-maca\obj\Debug\net7.0\atividade-maca.csproj.AssemblyReference.cache
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-maca\obj\Debug\net7.0\atividade-maca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-maca\obj\Debug\net7.0\atividade-maca.AssemblyInfoInputs.cache
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-maca\obj\Debug\net7.0\atividade-maca.AssemblyInfo.cs
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-maca\obj\Debug\net7.0\atividade-maca.csproj.CoreCompileInputs.cache
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-maca\obj\Debug\net7.0\atividade-maca.dll
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-maca\obj\Debug\net7.0\refint\atividade-maca.dll
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-maca\obj\Debug\net7.0\atividade-maca.pdb
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-maca\obj\Debug\net7.0\atividade-maca.genruntimeconfig.cache
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-maca\obj\Debug\net7.0\ref\atividade-maca.dll

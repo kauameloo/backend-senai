@@ -1,0 +1,15 @@
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-futebol\bin\Debug\net7.0\atividade-futebol.exe
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-futebol\bin\Debug\net7.0\atividade-futebol.deps.json
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-futebol\bin\Debug\net7.0\atividade-futebol.runtimeconfig.json
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-futebol\bin\Debug\net7.0\atividade-futebol.dll
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-futebol\bin\Debug\net7.0\atividade-futebol.pdb
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-futebol\obj\Debug\net7.0\atividade-futebol.csproj.AssemblyReference.cache
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-futebol\obj\Debug\net7.0\atividade-futebol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-futebol\obj\Debug\net7.0\atividade-futebol.AssemblyInfoInputs.cache
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-futebol\obj\Debug\net7.0\atividade-futebol.AssemblyInfo.cs
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-futebol\obj\Debug\net7.0\atividade-futebol.csproj.CoreCompileInputs.cache
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-futebol\obj\Debug\net7.0\atividade-futebol.dll
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-futebol\obj\Debug\net7.0\refint\atividade-futebol.dll
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-futebol\obj\Debug\net7.0\atividade-futebol.pdb
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-futebol\obj\Debug\net7.0\atividade-futebol.genruntimeconfig.cache
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-futebol\obj\Debug\net7.0\ref\atividade-futebol.dll

@@ -1,0 +1,15 @@
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-tringulo\bin\Debug\net7.0\atividade-tringulo.exe
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-tringulo\bin\Debug\net7.0\atividade-tringulo.deps.json
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-tringulo\bin\Debug\net7.0\atividade-tringulo.runtimeconfig.json
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-tringulo\bin\Debug\net7.0\atividade-tringulo.dll
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-tringulo\bin\Debug\net7.0\atividade-tringulo.pdb
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-tringulo\obj\Debug\net7.0\atividade-tringulo.csproj.AssemblyReference.cache
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-tringulo\obj\Debug\net7.0\atividade-tringulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-tringulo\obj\Debug\net7.0\atividade-tringulo.AssemblyInfoInputs.cache
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-tringulo\obj\Debug\net7.0\atividade-tringulo.AssemblyInfo.cs
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-tringulo\obj\Debug\net7.0\atividade-tringulo.csproj.CoreCompileInputs.cache
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-tringulo\obj\Debug\net7.0\atividade-tringulo.dll
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-tringulo\obj\Debug\net7.0\refint\atividade-tringulo.dll
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-tringulo\obj\Debug\net7.0\atividade-tringulo.pdb
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-tringulo\obj\Debug\net7.0\atividade-tringulo.genruntimeconfig.cache
+C:\Users\44506315871\Desktop\backend\atividade-estrutura-condicional\atividade-tringulo\obj\Debug\net7.0\ref\atividade-tringulo.dll
