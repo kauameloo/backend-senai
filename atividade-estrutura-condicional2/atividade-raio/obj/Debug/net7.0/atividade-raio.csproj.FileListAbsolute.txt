@@ -1,0 +1,15 @@
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-raio\bin\Debug\net7.0\atividade-raio.exe
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-raio\bin\Debug\net7.0\atividade-raio.deps.json
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-raio\bin\Debug\net7.0\atividade-raio.runtimeconfig.json
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-raio\bin\Debug\net7.0\atividade-raio.dll
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-raio\bin\Debug\net7.0\atividade-raio.pdb
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-raio\obj\Debug\net7.0\atividade-raio.csproj.AssemblyReference.cache
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-raio\obj\Debug\net7.0\atividade-raio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-raio\obj\Debug\net7.0\atividade-raio.AssemblyInfoInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-raio\obj\Debug\net7.0\atividade-raio.AssemblyInfo.cs
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-raio\obj\Debug\net7.0\atividade-raio.csproj.CoreCompileInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-raio\obj\Debug\net7.0\atividade-raio.dll
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-raio\obj\Debug\net7.0\refint\atividade-raio.dll
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-raio\obj\Debug\net7.0\atividade-raio.pdb
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-raio\obj\Debug\net7.0\atividade-raio.genruntimeconfig.cache
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-raio\obj\Debug\net7.0\ref\atividade-raio.dll

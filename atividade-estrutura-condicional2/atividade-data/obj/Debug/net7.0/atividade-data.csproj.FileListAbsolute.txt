@@ -1,0 +1,15 @@
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-data\bin\Debug\net7.0\atividade-data.exe
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-data\bin\Debug\net7.0\atividade-data.deps.json
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-data\bin\Debug\net7.0\atividade-data.runtimeconfig.json
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-data\bin\Debug\net7.0\atividade-data.dll
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-data\bin\Debug\net7.0\atividade-data.pdb
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-data\obj\Debug\net7.0\atividade-data.csproj.AssemblyReference.cache
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-data\obj\Debug\net7.0\atividade-data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-data\obj\Debug\net7.0\atividade-data.AssemblyInfoInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-data\obj\Debug\net7.0\atividade-data.AssemblyInfo.cs
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-data\obj\Debug\net7.0\atividade-data.csproj.CoreCompileInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-data\obj\Debug\net7.0\atividade-data.dll
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-data\obj\Debug\net7.0\refint\atividade-data.dll
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-data\obj\Debug\net7.0\atividade-data.pdb
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-data\obj\Debug\net7.0\atividade-data.genruntimeconfig.cache
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-data\obj\Debug\net7.0\ref\atividade-data.dll

@@ -1,0 +1,15 @@
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-numeros\bin\Debug\net7.0\atividade-numeros.exe
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-numeros\bin\Debug\net7.0\atividade-numeros.deps.json
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-numeros\bin\Debug\net7.0\atividade-numeros.runtimeconfig.json
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-numeros\bin\Debug\net7.0\atividade-numeros.dll
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-numeros\bin\Debug\net7.0\atividade-numeros.pdb
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-numeros\obj\Debug\net7.0\atividade-numeros.csproj.AssemblyReference.cache
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-numeros\obj\Debug\net7.0\atividade-numeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-numeros\obj\Debug\net7.0\atividade-numeros.AssemblyInfoInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-numeros\obj\Debug\net7.0\atividade-numeros.AssemblyInfo.cs
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-numeros\obj\Debug\net7.0\atividade-numeros.csproj.CoreCompileInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-numeros\obj\Debug\net7.0\atividade-numeros.dll
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-numeros\obj\Debug\net7.0\refint\atividade-numeros.dll
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-numeros\obj\Debug\net7.0\atividade-numeros.pdb
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-numeros\obj\Debug\net7.0\atividade-numeros.genruntimeconfig.cache
+C:\Users\44506315871\Desktop\backend-senai\atividade-estrutura-condicional2\atividade-numeros\obj\Debug\net7.0\ref\atividade-numeros.dll
