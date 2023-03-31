@@ -1,0 +1,15 @@
+C:\Users\kaua-\OneDrive\Área de Trabalho\SENAI\backend-senai\atividade-estrutura-condicional\atividade-aluno\bin\Debug\net7.0\atividade-aluno.exe
+C:\Users\kaua-\OneDrive\Área de Trabalho\SENAI\backend-senai\atividade-estrutura-condicional\atividade-aluno\bin\Debug\net7.0\atividade-aluno.deps.json
+C:\Users\kaua-\OneDrive\Área de Trabalho\SENAI\backend-senai\atividade-estrutura-condicional\atividade-aluno\bin\Debug\net7.0\atividade-aluno.runtimeconfig.json
+C:\Users\kaua-\OneDrive\Área de Trabalho\SENAI\backend-senai\atividade-estrutura-condicional\atividade-aluno\bin\Debug\net7.0\atividade-aluno.dll
+C:\Users\kaua-\OneDrive\Área de Trabalho\SENAI\backend-senai\atividade-estrutura-condicional\atividade-aluno\bin\Debug\net7.0\atividade-aluno.pdb
+C:\Users\kaua-\OneDrive\Área de Trabalho\SENAI\backend-senai\atividade-estrutura-condicional\atividade-aluno\obj\Debug\net7.0\atividade-aluno.csproj.AssemblyReference.cache
+C:\Users\kaua-\OneDrive\Área de Trabalho\SENAI\backend-senai\atividade-estrutura-condicional\atividade-aluno\obj\Debug\net7.0\atividade-aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaua-\OneDrive\Área de Trabalho\SENAI\backend-senai\atividade-estrutura-condicional\atividade-aluno\obj\Debug\net7.0\atividade-aluno.AssemblyInfoInputs.cache
+C:\Users\kaua-\OneDrive\Área de Trabalho\SENAI\backend-senai\atividade-estrutura-condicional\atividade-aluno\obj\Debug\net7.0\atividade-aluno.AssemblyInfo.cs
+C:\Users\kaua-\OneDrive\Área de Trabalho\SENAI\backend-senai\atividade-estrutura-condicional\atividade-aluno\obj\Debug\net7.0\atividade-aluno.csproj.CoreCompileInputs.cache
+C:\Users\kaua-\OneDrive\Área de Trabalho\SENAI\backend-senai\atividade-estrutura-condicional\atividade-aluno\obj\Debug\net7.0\atividade-aluno.dll
+C:\Users\kaua-\OneDrive\Área de Trabalho\SENAI\backend-senai\atividade-estrutura-condicional\atividade-aluno\obj\Debug\net7.0\refint\atividade-aluno.dll
+C:\Users\kaua-\OneDrive\Área de Trabalho\SENAI\backend-senai\atividade-estrutura-condicional\atividade-aluno\obj\Debug\net7.0\atividade-aluno.pdb
+C:\Users\kaua-\OneDrive\Área de Trabalho\SENAI\backend-senai\atividade-estrutura-condicional\atividade-aluno\obj\Debug\net7.0\atividade-aluno.genruntimeconfig.cache
+C:\Users\kaua-\OneDrive\Área de Trabalho\SENAI\backend-senai\atividade-estrutura-condicional\atividade-aluno\obj\Debug\net7.0\ref\atividade-aluno.dll
