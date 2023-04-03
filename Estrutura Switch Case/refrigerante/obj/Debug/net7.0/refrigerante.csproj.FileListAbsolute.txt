@@ -1,0 +1,15 @@
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Switch Case\refrigerante\bin\Debug\net7.0\refrigerante.exe
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Switch Case\refrigerante\bin\Debug\net7.0\refrigerante.deps.json
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Switch Case\refrigerante\bin\Debug\net7.0\refrigerante.runtimeconfig.json
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Switch Case\refrigerante\bin\Debug\net7.0\refrigerante.dll
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Switch Case\refrigerante\bin\Debug\net7.0\refrigerante.pdb
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Switch Case\refrigerante\obj\Debug\net7.0\refrigerante.csproj.AssemblyReference.cache
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Switch Case\refrigerante\obj\Debug\net7.0\refrigerante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Switch Case\refrigerante\obj\Debug\net7.0\refrigerante.AssemblyInfoInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Switch Case\refrigerante\obj\Debug\net7.0\refrigerante.AssemblyInfo.cs
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Switch Case\refrigerante\obj\Debug\net7.0\refrigerante.csproj.CoreCompileInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Switch Case\refrigerante\obj\Debug\net7.0\refrigerante.dll
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Switch Case\refrigerante\obj\Debug\net7.0\refint\refrigerante.dll
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Switch Case\refrigerante\obj\Debug\net7.0\refrigerante.pdb
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Switch Case\refrigerante\obj\Debug\net7.0\refrigerante.genruntimeconfig.cache
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Switch Case\refrigerante\obj\Debug\net7.0\ref\refrigerante.dll
