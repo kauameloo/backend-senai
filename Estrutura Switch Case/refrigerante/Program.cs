@@ -51,10 +51,10 @@ switch (refri)
         switch (gelo)
         {
             case 1:
-                Console.WriteLine($"Você escolheu uma coca-cola com gelo.");
+                Console.WriteLine($"Você escolheu uma Pepsi com gelo.");
                 break;
             case 2:
-                Console.WriteLine($"Você escolheu uma coca-cola sem gelo.");
+                Console.WriteLine($"Você escolheu uma Pepsi sem gelo.");
                 break;
             default:
                 Console.WriteLine($"Escolha inválida.");
@@ -70,10 +70,10 @@ switch (refri)
         switch (gelo)
         {
             case 1:
-                Console.WriteLine($"Você escolheu uma coca-cola com gelo.");
+                Console.WriteLine($"Você escolheu uma Fanta com gelo.");
                 break;
             case 2:
-                Console.WriteLine($"Você escolheu uma coca-cola sem gelo.");
+                Console.WriteLine($"Você escolheu uma Fanta sem gelo.");
                 break;
             default:
                 Console.WriteLine($"Escolha inválida.");
@@ -89,10 +89,10 @@ switch (refri)
         switch (gelo)
         {
             case 1:
-                Console.WriteLine($"Você escolheu uma coca-cola com gelo.");
+                Console.WriteLine($"Você escolheu uma Monster com gelo.");
                 break;
             case 2:
-                Console.WriteLine($"Você escolheu uma coca-cola sem gelo.");
+                Console.WriteLine($"Você escolheu um Monster sem gelo.");
                 break;
             default:
                 Console.WriteLine($"Escolha inválida.");
