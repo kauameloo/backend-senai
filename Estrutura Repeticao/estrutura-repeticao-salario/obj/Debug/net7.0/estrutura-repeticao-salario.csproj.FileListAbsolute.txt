@@ -1,0 +1,15 @@
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\estrutura-repeticao-salario\bin\Debug\net7.0\estrutura-repeticao-salario.exe
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\estrutura-repeticao-salario\bin\Debug\net7.0\estrutura-repeticao-salario.deps.json
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\estrutura-repeticao-salario\bin\Debug\net7.0\estrutura-repeticao-salario.runtimeconfig.json
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\estrutura-repeticao-salario\bin\Debug\net7.0\estrutura-repeticao-salario.dll
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\estrutura-repeticao-salario\bin\Debug\net7.0\estrutura-repeticao-salario.pdb
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\estrutura-repeticao-salario\obj\Debug\net7.0\estrutura-repeticao-salario.csproj.AssemblyReference.cache
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\estrutura-repeticao-salario\obj\Debug\net7.0\estrutura-repeticao-salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\estrutura-repeticao-salario\obj\Debug\net7.0\estrutura-repeticao-salario.AssemblyInfoInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\estrutura-repeticao-salario\obj\Debug\net7.0\estrutura-repeticao-salario.AssemblyInfo.cs
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\estrutura-repeticao-salario\obj\Debug\net7.0\estrutura-repeticao-salario.csproj.CoreCompileInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\estrutura-repeticao-salario\obj\Debug\net7.0\estrutura-repeticao-salario.dll
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\estrutura-repeticao-salario\obj\Debug\net7.0\refint\estrutura-repeticao-salario.dll
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\estrutura-repeticao-salario\obj\Debug\net7.0\estrutura-repeticao-salario.pdb
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\estrutura-repeticao-salario\obj\Debug\net7.0\estrutura-repeticao-salario.genruntimeconfig.cache
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\estrutura-repeticao-salario\obj\Debug\net7.0\ref\estrutura-repeticao-salario.dll
