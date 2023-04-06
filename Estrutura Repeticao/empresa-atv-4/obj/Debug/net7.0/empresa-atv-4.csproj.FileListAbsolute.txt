@@ -1,0 +1,15 @@
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\empresa-atv-4\bin\Debug\net7.0\empresa-atv-4.exe
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\empresa-atv-4\bin\Debug\net7.0\empresa-atv-4.deps.json
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\empresa-atv-4\bin\Debug\net7.0\empresa-atv-4.runtimeconfig.json
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\empresa-atv-4\bin\Debug\net7.0\empresa-atv-4.dll
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\empresa-atv-4\bin\Debug\net7.0\empresa-atv-4.pdb
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\empresa-atv-4\obj\Debug\net7.0\empresa-atv-4.csproj.AssemblyReference.cache
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\empresa-atv-4\obj\Debug\net7.0\empresa-atv-4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\empresa-atv-4\obj\Debug\net7.0\empresa-atv-4.AssemblyInfoInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\empresa-atv-4\obj\Debug\net7.0\empresa-atv-4.AssemblyInfo.cs
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\empresa-atv-4\obj\Debug\net7.0\empresa-atv-4.csproj.CoreCompileInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\empresa-atv-4\obj\Debug\net7.0\empresa-atv-4.dll
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\empresa-atv-4\obj\Debug\net7.0\refint\empresa-atv-4.dll
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\empresa-atv-4\obj\Debug\net7.0\empresa-atv-4.pdb
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\empresa-atv-4\obj\Debug\net7.0\empresa-atv-4.genruntimeconfig.cache
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\empresa-atv-4\obj\Debug\net7.0\ref\empresa-atv-4.dll

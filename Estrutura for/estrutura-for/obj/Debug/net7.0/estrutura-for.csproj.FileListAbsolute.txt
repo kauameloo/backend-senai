@@ -1,0 +1,15 @@
+C:\Users\44506315871\Desktop\backend-senai\Estrutura for\estrutura-for\bin\Debug\net7.0\estrutura-for.exe
+C:\Users\44506315871\Desktop\backend-senai\Estrutura for\estrutura-for\bin\Debug\net7.0\estrutura-for.deps.json
+C:\Users\44506315871\Desktop\backend-senai\Estrutura for\estrutura-for\bin\Debug\net7.0\estrutura-for.runtimeconfig.json
+C:\Users\44506315871\Desktop\backend-senai\Estrutura for\estrutura-for\bin\Debug\net7.0\estrutura-for.dll
+C:\Users\44506315871\Desktop\backend-senai\Estrutura for\estrutura-for\bin\Debug\net7.0\estrutura-for.pdb
+C:\Users\44506315871\Desktop\backend-senai\Estrutura for\estrutura-for\obj\Debug\net7.0\estrutura-for.csproj.AssemblyReference.cache
+C:\Users\44506315871\Desktop\backend-senai\Estrutura for\estrutura-for\obj\Debug\net7.0\estrutura-for.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44506315871\Desktop\backend-senai\Estrutura for\estrutura-for\obj\Debug\net7.0\estrutura-for.AssemblyInfoInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\Estrutura for\estrutura-for\obj\Debug\net7.0\estrutura-for.AssemblyInfo.cs
+C:\Users\44506315871\Desktop\backend-senai\Estrutura for\estrutura-for\obj\Debug\net7.0\estrutura-for.csproj.CoreCompileInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\Estrutura for\estrutura-for\obj\Debug\net7.0\estrutura-for.dll
+C:\Users\44506315871\Desktop\backend-senai\Estrutura for\estrutura-for\obj\Debug\net7.0\refint\estrutura-for.dll
+C:\Users\44506315871\Desktop\backend-senai\Estrutura for\estrutura-for\obj\Debug\net7.0\estrutura-for.pdb
+C:\Users\44506315871\Desktop\backend-senai\Estrutura for\estrutura-for\obj\Debug\net7.0\estrutura-for.genruntimeconfig.cache
+C:\Users\44506315871\Desktop\backend-senai\Estrutura for\estrutura-for\obj\Debug\net7.0\ref\estrutura-for.dll

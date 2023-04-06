@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "empresa-atv-4/1.0.0": {
+        "runtime": {
+          "empresa-atv-4.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "empresa-atv-4/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,15 @@
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\estrutura-repeticao-nota\bin\Debug\net7.0\estrutura-repeticao-nota.exe
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\estrutura-repeticao-nota\bin\Debug\net7.0\estrutura-repeticao-nota.deps.json
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\estrutura-repeticao-nota\bin\Debug\net7.0\estrutura-repeticao-nota.runtimeconfig.json
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\estrutura-repeticao-nota\bin\Debug\net7.0\estrutura-repeticao-nota.dll
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\estrutura-repeticao-nota\bin\Debug\net7.0\estrutura-repeticao-nota.pdb
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\estrutura-repeticao-nota\obj\Debug\net7.0\estrutura-repeticao-nota.csproj.AssemblyReference.cache
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\estrutura-repeticao-nota\obj\Debug\net7.0\estrutura-repeticao-nota.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\estrutura-repeticao-nota\obj\Debug\net7.0\estrutura-repeticao-nota.AssemblyInfoInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\estrutura-repeticao-nota\obj\Debug\net7.0\estrutura-repeticao-nota.AssemblyInfo.cs
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\estrutura-repeticao-nota\obj\Debug\net7.0\estrutura-repeticao-nota.csproj.CoreCompileInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\estrutura-repeticao-nota\obj\Debug\net7.0\estrutura-repeticao-nota.dll
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\estrutura-repeticao-nota\obj\Debug\net7.0\refint\estrutura-repeticao-nota.dll
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\estrutura-repeticao-nota\obj\Debug\net7.0\estrutura-repeticao-nota.pdb
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\estrutura-repeticao-nota\obj\Debug\net7.0\estrutura-repeticao-nota.genruntimeconfig.cache
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\estrutura-repeticao-nota\obj\Debug\net7.0\ref\estrutura-repeticao-nota.dll
