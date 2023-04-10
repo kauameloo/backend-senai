@@ -76,12 +76,11 @@ for (pessoas = 1; pessoas <= 10; pessoas++)
     } while (respostaCerta == false);
 }
 
-
 Console.WriteLine(@$"
 Número de pessoas que responderam SIM: {sim}
 Número de pessoas que responderam NAO: {nao}
 Número de mulheres que responderam SIM: {simM}
-Homens que responderam NAO entre os homens: {(100 * (homem - simH)) / homem}
+Homens que responderam NAO entre os homens: {(100 * (float)(homem - simH)) / (float)homem}%
 ");
 
 
