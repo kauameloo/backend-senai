@@ -1,0 +1,15 @@
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\fibonacci-desafio\bin\Debug\net7.0\fibonacci-desafio.exe
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\fibonacci-desafio\bin\Debug\net7.0\fibonacci-desafio.deps.json
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\fibonacci-desafio\bin\Debug\net7.0\fibonacci-desafio.runtimeconfig.json
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\fibonacci-desafio\bin\Debug\net7.0\fibonacci-desafio.dll
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\fibonacci-desafio\bin\Debug\net7.0\fibonacci-desafio.pdb
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\fibonacci-desafio\obj\Debug\net7.0\fibonacci-desafio.csproj.AssemblyReference.cache
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\fibonacci-desafio\obj\Debug\net7.0\fibonacci-desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\fibonacci-desafio\obj\Debug\net7.0\fibonacci-desafio.AssemblyInfoInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\fibonacci-desafio\obj\Debug\net7.0\fibonacci-desafio.AssemblyInfo.cs
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\fibonacci-desafio\obj\Debug\net7.0\fibonacci-desafio.csproj.CoreCompileInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\fibonacci-desafio\obj\Debug\net7.0\fibonacci-desafio.dll
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\fibonacci-desafio\obj\Debug\net7.0\refint\fibonacci-desafio.dll
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\fibonacci-desafio\obj\Debug\net7.0\fibonacci-desafio.pdb
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\fibonacci-desafio\obj\Debug\net7.0\fibonacci-desafio.genruntimeconfig.cache
+C:\Users\44506315871\Desktop\backend-senai\Estrutura Repeticao\fibonacci-desafio\obj\Debug\net7.0\ref\fibonacci-desafio.dll
