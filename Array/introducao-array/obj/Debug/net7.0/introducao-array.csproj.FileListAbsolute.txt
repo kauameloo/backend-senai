@@ -1,0 +1,15 @@
+C:\Users\44506315871\Desktop\backend-senai\Array\introducao-array\bin\Debug\net7.0\introducao-array.exe
+C:\Users\44506315871\Desktop\backend-senai\Array\introducao-array\bin\Debug\net7.0\introducao-array.deps.json
+C:\Users\44506315871\Desktop\backend-senai\Array\introducao-array\bin\Debug\net7.0\introducao-array.runtimeconfig.json
+C:\Users\44506315871\Desktop\backend-senai\Array\introducao-array\bin\Debug\net7.0\introducao-array.dll
+C:\Users\44506315871\Desktop\backend-senai\Array\introducao-array\bin\Debug\net7.0\introducao-array.pdb
+C:\Users\44506315871\Desktop\backend-senai\Array\introducao-array\obj\Debug\net7.0\introducao-array.csproj.AssemblyReference.cache
+C:\Users\44506315871\Desktop\backend-senai\Array\introducao-array\obj\Debug\net7.0\introducao-array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44506315871\Desktop\backend-senai\Array\introducao-array\obj\Debug\net7.0\introducao-array.AssemblyInfoInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\Array\introducao-array\obj\Debug\net7.0\introducao-array.AssemblyInfo.cs
+C:\Users\44506315871\Desktop\backend-senai\Array\introducao-array\obj\Debug\net7.0\introducao-array.csproj.CoreCompileInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\Array\introducao-array\obj\Debug\net7.0\introducao-array.dll
+C:\Users\44506315871\Desktop\backend-senai\Array\introducao-array\obj\Debug\net7.0\refint\introducao-array.dll
+C:\Users\44506315871\Desktop\backend-senai\Array\introducao-array\obj\Debug\net7.0\introducao-array.pdb
+C:\Users\44506315871\Desktop\backend-senai\Array\introducao-array\obj\Debug\net7.0\introducao-array.genruntimeconfig.cache
+C:\Users\44506315871\Desktop\backend-senai\Array\introducao-array\obj\Debug\net7.0\ref\introducao-array.dll
