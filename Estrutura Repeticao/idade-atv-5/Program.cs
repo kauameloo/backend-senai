@@ -10,7 +10,7 @@ string genero = "";
 float peso = 0;
 bool respostaCerta = true;
 
-for (int pessoas = 1; pessoas <= 3; pessoas++)
+for (int pessoas = 1; pessoas <= 10; pessoas++)
 {
     do
     {
