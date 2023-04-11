@@ -1,0 +1,15 @@
+C:\Users\44506315871\Desktop\backend-senai\Array\atividade-array\bin\Debug\net7.0\atividade-array.exe
+C:\Users\44506315871\Desktop\backend-senai\Array\atividade-array\bin\Debug\net7.0\atividade-array.deps.json
+C:\Users\44506315871\Desktop\backend-senai\Array\atividade-array\bin\Debug\net7.0\atividade-array.runtimeconfig.json
+C:\Users\44506315871\Desktop\backend-senai\Array\atividade-array\bin\Debug\net7.0\atividade-array.dll
+C:\Users\44506315871\Desktop\backend-senai\Array\atividade-array\bin\Debug\net7.0\atividade-array.pdb
+C:\Users\44506315871\Desktop\backend-senai\Array\atividade-array\obj\Debug\net7.0\atividade-array.csproj.AssemblyReference.cache
+C:\Users\44506315871\Desktop\backend-senai\Array\atividade-array\obj\Debug\net7.0\atividade-array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44506315871\Desktop\backend-senai\Array\atividade-array\obj\Debug\net7.0\atividade-array.AssemblyInfoInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\Array\atividade-array\obj\Debug\net7.0\atividade-array.AssemblyInfo.cs
+C:\Users\44506315871\Desktop\backend-senai\Array\atividade-array\obj\Debug\net7.0\atividade-array.csproj.CoreCompileInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\Array\atividade-array\obj\Debug\net7.0\atividade-array.dll
+C:\Users\44506315871\Desktop\backend-senai\Array\atividade-array\obj\Debug\net7.0\refint\atividade-array.dll
+C:\Users\44506315871\Desktop\backend-senai\Array\atividade-array\obj\Debug\net7.0\atividade-array.pdb
+C:\Users\44506315871\Desktop\backend-senai\Array\atividade-array\obj\Debug\net7.0\atividade-array.genruntimeconfig.cache
+C:\Users\44506315871\Desktop\backend-senai\Array\atividade-array\obj\Debug\net7.0\ref\atividade-array.dll

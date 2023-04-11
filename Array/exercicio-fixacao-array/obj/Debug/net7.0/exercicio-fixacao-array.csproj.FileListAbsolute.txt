@@ -1,0 +1,15 @@
+C:\Users\44506315871\Desktop\backend-senai\Array\exercicio-fixacao-array\bin\Debug\net7.0\exercicio-fixacao-array.exe
+C:\Users\44506315871\Desktop\backend-senai\Array\exercicio-fixacao-array\bin\Debug\net7.0\exercicio-fixacao-array.deps.json
+C:\Users\44506315871\Desktop\backend-senai\Array\exercicio-fixacao-array\bin\Debug\net7.0\exercicio-fixacao-array.runtimeconfig.json
+C:\Users\44506315871\Desktop\backend-senai\Array\exercicio-fixacao-array\bin\Debug\net7.0\exercicio-fixacao-array.dll
+C:\Users\44506315871\Desktop\backend-senai\Array\exercicio-fixacao-array\bin\Debug\net7.0\exercicio-fixacao-array.pdb
+C:\Users\44506315871\Desktop\backend-senai\Array\exercicio-fixacao-array\obj\Debug\net7.0\exercicio-fixacao-array.csproj.AssemblyReference.cache
+C:\Users\44506315871\Desktop\backend-senai\Array\exercicio-fixacao-array\obj\Debug\net7.0\exercicio-fixacao-array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44506315871\Desktop\backend-senai\Array\exercicio-fixacao-array\obj\Debug\net7.0\exercicio-fixacao-array.AssemblyInfoInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\Array\exercicio-fixacao-array\obj\Debug\net7.0\exercicio-fixacao-array.AssemblyInfo.cs
+C:\Users\44506315871\Desktop\backend-senai\Array\exercicio-fixacao-array\obj\Debug\net7.0\exercicio-fixacao-array.csproj.CoreCompileInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\Array\exercicio-fixacao-array\obj\Debug\net7.0\exercicio-fixacao-array.dll
+C:\Users\44506315871\Desktop\backend-senai\Array\exercicio-fixacao-array\obj\Debug\net7.0\refint\exercicio-fixacao-array.dll
+C:\Users\44506315871\Desktop\backend-senai\Array\exercicio-fixacao-array\obj\Debug\net7.0\exercicio-fixacao-array.pdb
+C:\Users\44506315871\Desktop\backend-senai\Array\exercicio-fixacao-array\obj\Debug\net7.0\exercicio-fixacao-array.genruntimeconfig.cache
+C:\Users\44506315871\Desktop\backend-senai\Array\exercicio-fixacao-array\obj\Debug\net7.0\ref\exercicio-fixacao-array.dll
