@@ -1,0 +1,15 @@
+C:\Users\44506315871\Desktop\backend-senai\Funções\atividade-funcoes\bin\Debug\net7.0\atividade-funcoes.exe
+C:\Users\44506315871\Desktop\backend-senai\Funções\atividade-funcoes\bin\Debug\net7.0\atividade-funcoes.deps.json
+C:\Users\44506315871\Desktop\backend-senai\Funções\atividade-funcoes\bin\Debug\net7.0\atividade-funcoes.runtimeconfig.json
+C:\Users\44506315871\Desktop\backend-senai\Funções\atividade-funcoes\bin\Debug\net7.0\atividade-funcoes.dll
+C:\Users\44506315871\Desktop\backend-senai\Funções\atividade-funcoes\bin\Debug\net7.0\atividade-funcoes.pdb
+C:\Users\44506315871\Desktop\backend-senai\Funções\atividade-funcoes\obj\Debug\net7.0\atividade-funcoes.csproj.AssemblyReference.cache
+C:\Users\44506315871\Desktop\backend-senai\Funções\atividade-funcoes\obj\Debug\net7.0\atividade-funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44506315871\Desktop\backend-senai\Funções\atividade-funcoes\obj\Debug\net7.0\atividade-funcoes.AssemblyInfoInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\Funções\atividade-funcoes\obj\Debug\net7.0\atividade-funcoes.AssemblyInfo.cs
+C:\Users\44506315871\Desktop\backend-senai\Funções\atividade-funcoes\obj\Debug\net7.0\atividade-funcoes.csproj.CoreCompileInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\Funções\atividade-funcoes\obj\Debug\net7.0\atividade-funcoes.dll
+C:\Users\44506315871\Desktop\backend-senai\Funções\atividade-funcoes\obj\Debug\net7.0\refint\atividade-funcoes.dll
+C:\Users\44506315871\Desktop\backend-senai\Funções\atividade-funcoes\obj\Debug\net7.0\atividade-funcoes.pdb
+C:\Users\44506315871\Desktop\backend-senai\Funções\atividade-funcoes\obj\Debug\net7.0\atividade-funcoes.genruntimeconfig.cache
+C:\Users\44506315871\Desktop\backend-senai\Funções\atividade-funcoes\obj\Debug\net7.0\ref\atividade-funcoes.dll

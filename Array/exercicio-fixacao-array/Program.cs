@@ -32,7 +32,7 @@ for (int p = 0; p < nome.Length; p++)
     Console.WriteLine(@$"{cont++}) nome: {nome[p]}");
     Console.ResetColor();
     Console.ForegroundColor = ConsoleColor.Green;
-    Console.WriteLine($"idade: {idade[p]} \n");
+    Console.WriteLine($"idade: {idade[p]} anos \n");
     Console.ResetColor();
 
 }

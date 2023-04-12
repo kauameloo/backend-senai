@@ -1,0 +1,15 @@
+C:\Users\44506315871\Desktop\backend-senai\Funções\introducao-funcoes\bin\Debug\net7.0\introducao-funcoes.exe
+C:\Users\44506315871\Desktop\backend-senai\Funções\introducao-funcoes\bin\Debug\net7.0\introducao-funcoes.deps.json
+C:\Users\44506315871\Desktop\backend-senai\Funções\introducao-funcoes\bin\Debug\net7.0\introducao-funcoes.runtimeconfig.json
+C:\Users\44506315871\Desktop\backend-senai\Funções\introducao-funcoes\bin\Debug\net7.0\introducao-funcoes.dll
+C:\Users\44506315871\Desktop\backend-senai\Funções\introducao-funcoes\bin\Debug\net7.0\introducao-funcoes.pdb
+C:\Users\44506315871\Desktop\backend-senai\Funções\introducao-funcoes\obj\Debug\net7.0\introducao-funcoes.csproj.AssemblyReference.cache
+C:\Users\44506315871\Desktop\backend-senai\Funções\introducao-funcoes\obj\Debug\net7.0\introducao-funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44506315871\Desktop\backend-senai\Funções\introducao-funcoes\obj\Debug\net7.0\introducao-funcoes.AssemblyInfoInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\Funções\introducao-funcoes\obj\Debug\net7.0\introducao-funcoes.AssemblyInfo.cs
+C:\Users\44506315871\Desktop\backend-senai\Funções\introducao-funcoes\obj\Debug\net7.0\introducao-funcoes.csproj.CoreCompileInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\Funções\introducao-funcoes\obj\Debug\net7.0\introducao-funcoes.dll
+C:\Users\44506315871\Desktop\backend-senai\Funções\introducao-funcoes\obj\Debug\net7.0\refint\introducao-funcoes.dll
+C:\Users\44506315871\Desktop\backend-senai\Funções\introducao-funcoes\obj\Debug\net7.0\introducao-funcoes.pdb
+C:\Users\44506315871\Desktop\backend-senai\Funções\introducao-funcoes\obj\Debug\net7.0\introducao-funcoes.genruntimeconfig.cache
+C:\Users\44506315871\Desktop\backend-senai\Funções\introducao-funcoes\obj\Debug\net7.0\ref\introducao-funcoes.dll
