@@ -1,0 +1,15 @@
+C:\Users\44506315871\Desktop\backend-senai\Funções\fixacao-funcoes\bin\Debug\net7.0\fixacao-funcoes.exe
+C:\Users\44506315871\Desktop\backend-senai\Funções\fixacao-funcoes\bin\Debug\net7.0\fixacao-funcoes.deps.json
+C:\Users\44506315871\Desktop\backend-senai\Funções\fixacao-funcoes\bin\Debug\net7.0\fixacao-funcoes.runtimeconfig.json
+C:\Users\44506315871\Desktop\backend-senai\Funções\fixacao-funcoes\bin\Debug\net7.0\fixacao-funcoes.dll
+C:\Users\44506315871\Desktop\backend-senai\Funções\fixacao-funcoes\bin\Debug\net7.0\fixacao-funcoes.pdb
+C:\Users\44506315871\Desktop\backend-senai\Funções\fixacao-funcoes\obj\Debug\net7.0\fixacao-funcoes.csproj.AssemblyReference.cache
+C:\Users\44506315871\Desktop\backend-senai\Funções\fixacao-funcoes\obj\Debug\net7.0\fixacao-funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44506315871\Desktop\backend-senai\Funções\fixacao-funcoes\obj\Debug\net7.0\fixacao-funcoes.AssemblyInfoInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\Funções\fixacao-funcoes\obj\Debug\net7.0\fixacao-funcoes.AssemblyInfo.cs
+C:\Users\44506315871\Desktop\backend-senai\Funções\fixacao-funcoes\obj\Debug\net7.0\fixacao-funcoes.csproj.CoreCompileInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\Funções\fixacao-funcoes\obj\Debug\net7.0\fixacao-funcoes.dll
+C:\Users\44506315871\Desktop\backend-senai\Funções\fixacao-funcoes\obj\Debug\net7.0\refint\fixacao-funcoes.dll
+C:\Users\44506315871\Desktop\backend-senai\Funções\fixacao-funcoes\obj\Debug\net7.0\fixacao-funcoes.pdb
+C:\Users\44506315871\Desktop\backend-senai\Funções\fixacao-funcoes\obj\Debug\net7.0\fixacao-funcoes.genruntimeconfig.cache
+C:\Users\44506315871\Desktop\backend-senai\Funções\fixacao-funcoes\obj\Debug\net7.0\ref\fixacao-funcoes.dll
