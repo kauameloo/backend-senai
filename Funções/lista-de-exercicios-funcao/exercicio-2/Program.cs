@@ -13,36 +13,28 @@
 
 static float Gasolina(float litros)
 {
-    float precoGasolina = 5.30f, valorPago, desconto, total = 0;
+    float precoGasolina = 5.30f, total;
     if (litros <= 20)
     {
-        valorPago = precoGasolina * litros;
-        desconto = valorPago * 0.03F;
-        total = valorPago - desconto;
+        total = (precoGasolina * litros) * 0.97f;
     }
     else
     {
-        valorPago = precoGasolina * litros;
-        desconto = valorPago * 0.06F;
-        total = valorPago - desconto;
+        total = (precoGasolina * litros) * 0.94f;
     }
     return total;
 }
 
 static float Alcool(float litros)
 {
-    float precoAlcool = 4.90f, valorPago, desconto, total = 0;;
+    float precoAlcool = 4.90f, total;
     if (litros <= 20)
     {
-        valorPago = precoAlcool * litros;
-        desconto = valorPago * 0.04F;
-        total = valorPago - desconto;
+        total = (precoAlcool * litros) * 0.96f;
     }
     else
     {
-        valorPago = precoAlcool * litros;
-        desconto = valorPago * 0.06F;
-        total = valorPago - desconto;
+        total = (precoAlcool * litros) * 0.94f;
     }
     return total;
 }
@@ -56,8 +48,10 @@ do
     switch (combustivel)
     {
         case 'A':
+            escolhaCerta = true;
             break;
         case 'G':
+            escolhaCerta = true;
             break;
         default:
             Console.WriteLine($"Entrada inválida.");
@@ -76,10 +70,12 @@ do
     if (combustivel == 'G')
     {
         valorPago = Gasolina(litros);
+        escolhaCerta = true;
     }
     else if (combustivel == 'A')
     {
         valorPago = Alcool(litros);
+        escolhaCerta = true;
     }
     else
     {

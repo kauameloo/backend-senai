@@ -22,16 +22,16 @@ float pagar;
 
 if (quantidade <= 5)
 {
-    pagar = total - (total * 0.02F);
+    pagar = total * 0.98f;
 
 }
 else if (quantidade > 5 && quantidade <= 10)
 {
-    pagar = total - (total * 0.03F);
+    pagar = total * 0.97f;
 }
 else
 {
-    pagar = total - (total * 0.05F);
+    pagar = total * 0.95f;
 
 }
 
