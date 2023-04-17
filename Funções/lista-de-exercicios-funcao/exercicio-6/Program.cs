@@ -14,11 +14,13 @@ for (int i = 0; i < nomes.Length; i++)
 Console.WriteLine($"Informe o nome que deseja pesquisar: ");
 string busca = Console.ReadLine()!.ToUpper();
 
-if (nomes.Contains(busca))
-{
-    Console.WriteLine($"ACHEI");
-}
-else
-{
-    Console.WriteLine($"NAO ACHEI");
-}
+// if (nomes.Contains(busca))
+// {
+//     Console.WriteLine($"ACHEI");
+// }
+// else
+// {
+//     Console.WriteLine($"NAO ACHEI");
+// }
+
+ System.Console.WriteLine(nomes.Contains(busca) ? "ACHEI" : "NAO ACHEI");
