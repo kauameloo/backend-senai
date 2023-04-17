@@ -1,0 +1,15 @@
+C:\Users\44506315871\Desktop\backend-senai\projeto-passagens-aereas\bin\Debug\net7.0\projeto-passagens-aereas.exe
+C:\Users\44506315871\Desktop\backend-senai\projeto-passagens-aereas\bin\Debug\net7.0\projeto-passagens-aereas.deps.json
+C:\Users\44506315871\Desktop\backend-senai\projeto-passagens-aereas\bin\Debug\net7.0\projeto-passagens-aereas.runtimeconfig.json
+C:\Users\44506315871\Desktop\backend-senai\projeto-passagens-aereas\bin\Debug\net7.0\projeto-passagens-aereas.dll
+C:\Users\44506315871\Desktop\backend-senai\projeto-passagens-aereas\bin\Debug\net7.0\projeto-passagens-aereas.pdb
+C:\Users\44506315871\Desktop\backend-senai\projeto-passagens-aereas\obj\Debug\net7.0\projeto-passagens-aereas.csproj.AssemblyReference.cache
+C:\Users\44506315871\Desktop\backend-senai\projeto-passagens-aereas\obj\Debug\net7.0\projeto-passagens-aereas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44506315871\Desktop\backend-senai\projeto-passagens-aereas\obj\Debug\net7.0\projeto-passagens-aereas.AssemblyInfoInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\projeto-passagens-aereas\obj\Debug\net7.0\projeto-passagens-aereas.AssemblyInfo.cs
+C:\Users\44506315871\Desktop\backend-senai\projeto-passagens-aereas\obj\Debug\net7.0\projeto-passagens-aereas.csproj.CoreCompileInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\projeto-passagens-aereas\obj\Debug\net7.0\projeto-passagens-aereas.dll
+C:\Users\44506315871\Desktop\backend-senai\projeto-passagens-aereas\obj\Debug\net7.0\refint\projeto-passagens-aereas.dll
+C:\Users\44506315871\Desktop\backend-senai\projeto-passagens-aereas\obj\Debug\net7.0\projeto-passagens-aereas.pdb
+C:\Users\44506315871\Desktop\backend-senai\projeto-passagens-aereas\obj\Debug\net7.0\projeto-passagens-aereas.genruntimeconfig.cache
+C:\Users\44506315871\Desktop\backend-senai\projeto-passagens-aereas\obj\Debug\net7.0\ref\projeto-passagens-aereas.dll
