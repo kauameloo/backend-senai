@@ -57,9 +57,11 @@ class Program
             System.Console.WriteLine(@$"Informe o destino do(a) {passagens + 1}º passageiro(a):");
             destino[passagens] = Console.ReadLine()!;
 
+
             System.Console.WriteLine(@$"Informe a data do voo (Ex > 12/04/2023):");
             string dataString = Console.ReadLine()!;
             data[passagens] = DateTime.ParseExact(dataString, "dd/MM/yyyy", CultureInfo.InvariantCulture);
+
 
             passagens++;
 
@@ -79,7 +81,7 @@ class Program
                     System.Console.WriteLine($"Opção inválida.");
                     break;
             }
-        } while (aceitoCadastro == true && passagens <5);
+        } while (aceitoCadastro == true && passagens < 5);
 
     }
 

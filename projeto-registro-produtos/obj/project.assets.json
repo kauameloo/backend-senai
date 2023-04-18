@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\44506315871\\Desktop\\backend-senai\\projeto-passagens-aereas\\projeto-passagens-aereas.csproj",
-      "projectName": "projeto-passagens-aereas",
-      "projectPath": "C:\\Users\\44506315871\\Desktop\\backend-senai\\projeto-passagens-aereas\\projeto-passagens-aereas.csproj",
+      "projectUniqueName": "C:\\Users\\44506315871\\Desktop\\backend-senai\\projeto-registro-produtos\\projeto-registro-produtos.csproj",
+      "projectName": "projeto-registro-produtos",
+      "projectPath": "C:\\Users\\44506315871\\Desktop\\backend-senai\\projeto-registro-produtos\\projeto-registro-produtos.csproj",
       "packagesPath": "C:\\Users\\44506315871\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\44506315871\\Desktop\\backend-senai\\projeto-passagens-aereas\\obj\\",
+      "outputPath": "C:\\Users\\44506315871\\Desktop\\backend-senai\\projeto-registro-produtos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\44506315871\\AppData\\Roaming\\NuGet\\NuGet.Config",
