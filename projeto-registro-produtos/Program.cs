@@ -110,27 +110,23 @@ Promocao : {promocao[i]}
 ");
 
             int decisaoMenu = int.Parse(Console.ReadLine()!);
-            bool opcaoValida = false;
+            bool opcaoValida = true;
             do
             {
                 switch (decisaoMenu)
                 {
                     case 1:
                         CadastrarProduto();
-                        opcaoValida = true;
                         break;
 
                     case 2:
                         ListarProdutos();
-                        opcaoValida = true;
                         break;
 
                     case 0:
-                        opcaoValida = true;
                         break;
                     default:
                         Console.WriteLine($"Opcao invalida.");
-                        opcaoValida = false;
                         break;
                 }
             } while (opcaoValida == false);

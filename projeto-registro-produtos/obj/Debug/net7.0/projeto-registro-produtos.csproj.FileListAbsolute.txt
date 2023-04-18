@@ -1,0 +1,15 @@
+C:\Users\44506315871\Desktop\backend-senai\projeto-registro-produtos\bin\Debug\net7.0\projeto-registro-produtos.exe
+C:\Users\44506315871\Desktop\backend-senai\projeto-registro-produtos\bin\Debug\net7.0\projeto-registro-produtos.deps.json
+C:\Users\44506315871\Desktop\backend-senai\projeto-registro-produtos\bin\Debug\net7.0\projeto-registro-produtos.runtimeconfig.json
+C:\Users\44506315871\Desktop\backend-senai\projeto-registro-produtos\bin\Debug\net7.0\projeto-registro-produtos.dll
+C:\Users\44506315871\Desktop\backend-senai\projeto-registro-produtos\bin\Debug\net7.0\projeto-registro-produtos.pdb
+C:\Users\44506315871\Desktop\backend-senai\projeto-registro-produtos\obj\Debug\net7.0\projeto-registro-produtos.csproj.AssemblyReference.cache
+C:\Users\44506315871\Desktop\backend-senai\projeto-registro-produtos\obj\Debug\net7.0\projeto-registro-produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44506315871\Desktop\backend-senai\projeto-registro-produtos\obj\Debug\net7.0\projeto-registro-produtos.AssemblyInfoInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\projeto-registro-produtos\obj\Debug\net7.0\projeto-registro-produtos.AssemblyInfo.cs
+C:\Users\44506315871\Desktop\backend-senai\projeto-registro-produtos\obj\Debug\net7.0\projeto-registro-produtos.csproj.CoreCompileInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\projeto-registro-produtos\obj\Debug\net7.0\projeto-registro-produtos.dll
+C:\Users\44506315871\Desktop\backend-senai\projeto-registro-produtos\obj\Debug\net7.0\refint\projeto-registro-produtos.dll
+C:\Users\44506315871\Desktop\backend-senai\projeto-registro-produtos\obj\Debug\net7.0\projeto-registro-produtos.pdb
+C:\Users\44506315871\Desktop\backend-senai\projeto-registro-produtos\obj\Debug\net7.0\projeto-registro-produtos.genruntimeconfig.cache
+C:\Users\44506315871\Desktop\backend-senai\projeto-registro-produtos\obj\Debug\net7.0\ref\projeto-registro-produtos.dll
