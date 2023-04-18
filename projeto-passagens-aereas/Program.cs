@@ -10,60 +10,143 @@
 
 // Ao cadastrar uma passagem ao final o sistema deverá perguntar se gostaria de cadastrar uma nova passagem caso contrário voltar ao menu anterior(S/N).
 
+using System.Globalization;
 
-
-// LOGIN
-static bool Login(int senhaInformada)
+class Program
 {
-    const int senha = 123456;
-    bool senhaCerta;
-    if (senhaInformada == senha)
+    // DEFINIDA ARRAYS E VARIAVEIS GLOBAIS
+    static string[] nome = new string[5];
+    static string[] origem = new string[5];
+    static string[] destino = new string[5];
+    static DateTime[] data = new DateTime[5];
+
+    static int passagens = 0;
+
+
+
+    // FUNÇÕES
+    // FUNÇÃO DE LOGIN
+    static bool Login(int senhaInformada)
     {
-        senhaCerta = true;
+        const int senha = 123456;
+        bool senhaCerta;
+        if (senhaInformada == senha)
+        {
+            senhaCerta = true;
+        }
+        else
+        {
+            System.Console.WriteLine($"Senha incorreta, insira novamente.");
+            senhaCerta = false;
+        }
+        return senhaCerta;
     }
-    else
+
+    // FUNÇÃO CADASTRO
+    static void Cadastro()
     {
-        senhaCerta = false;
+        bool aceitoCadastro = true;
+        do
+        {
+            System.Console.WriteLine(@$"Informe o nome do(a) {passagens + 1}º passageiro(a):");
+            nome[passagens] = Console.ReadLine()!;
+
+            System.Console.WriteLine(@$"Informe a origem do(a) {passagens + 1}º passageiro(a):");
+            origem[passagens] = Console.ReadLine()!;
+
+            System.Console.WriteLine(@$"Informe o destino do(a) {passagens + 1}º passageiro(a):");
+            destino[passagens] = Console.ReadLine()!;
+
+            System.Console.WriteLine(@$"Informe a data do voo (Ex > 12/04/2023):");
+            string dataString = Console.ReadLine()!;
+            data[passagens] = DateTime.ParseExact(dataString, "dd/MM/yyyy", CultureInfo.InvariantCulture);
+
+            passagens++;
+
+            Console.WriteLine($"Deseja cadastrar outra passagem? S/N ");
+            char novoCadastro = char.Parse(Console.ReadLine()!.ToLower());
+            switch (novoCadastro)
+            {
+                case 's':
+                    aceitoCadastro = true;
+                    break;
+
+                case 'n':
+                    aceitoCadastro = false;
+                    break;
+
+                default:
+                    System.Console.WriteLine($"Opção inválida.");
+                    break;
+            }
+        } while (aceitoCadastro == true && passagens <5);
+
     }
-    return senhaCerta;
-}
 
-int senhaInformada;
-do
-{
-    Console.WriteLine($"Insira a senha para acessar o menu:");
-    senhaInformada = int.Parse(Console.ReadLine()!);
+    // FUNÇÃO DE LISTAR PASSAGEM
+    static void ListarPassagem()
+    {
+        for (int i = 0; i < 5; i++)
+        {
+            System.Console.WriteLine(@$"
+    --- {i + 1}º PASSAGEIRO ---
+    nome: {nome[i]}
+    origem: {origem[i]}
+    destino: {destino[i]}
+    data do voo: {data[i].ToString("dd/MM/yyyy")}
+    ---------------------------
+    ");
+        }
+    }
 
-} while (Login(senhaInformada) == false);
+    // PROGRAMA PRINCIPAL
+    static void Main(string[] args)
+    {
+        int senhaInformada;
+        do
+        {
+            Console.WriteLine($"Insira a senha para acessar o menu:");
+            senhaInformada = int.Parse(Console.ReadLine()!);
 
-Console.WriteLine($"Acesso Liberado");
+        } while (Login(senhaInformada) == false);
 
+        Console.WriteLine($"Acesso Liberado");
 
-
-
-// SISTEMA
-Console.WriteLine(@$"
+        // MENU DO SISTEMA
+        int opcao = 1;
+        while (opcao != 0 && opcao != 2)
+        {
+            Console.WriteLine(@$"
 -- MENU AGÊNCIA TURISMO --
 // 1- Cadastrar passagem
 // 2- Listar Passagens
 // 0- Sair
 --------------------------");
-Console.WriteLine($"Informe o serviço que deseja: ");
-int opcao = int.Parse(Console.ReadLine()!);
 
-switch (opcao)
-{
-    case 1:
-        break;
-    case 2:
-        break;
-    case 0:
-        break;
-    default:
-    Console.WriteLine($"Informe uma opção válida.");
-        break;
+            Console.WriteLine($"Informe o serviço que deseja: ");
+            opcao = int.Parse(Console.ReadLine()!);
+            switch (opcao)
+            {
+                // CADASTRO DE PASSAGEM
+                case 1:
+                    Cadastro();
+                    break;
+
+                // LISTAR PASSAGENS
+                case 2:
+                    ListarPassagem();
+                    break;
+
+                // SAIR DO MENU
+                case 0:
+                    System.Console.WriteLine($"Você saiu do menu.");
+                    break;
+
+                // OPÇÃO INVÁLIDA
+                default:
+                    Console.WriteLine($"Informe uma opção válida.");
+                    break;
+            }
+        }
+    }
 }
-
-
-
-
