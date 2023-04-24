@@ -1,0 +1,15 @@
+C:\Users\44506315871\Desktop\backend-senai\registro-aluno\bin\Debug\net7.0\registro-aluno.exe
+C:\Users\44506315871\Desktop\backend-senai\registro-aluno\bin\Debug\net7.0\registro-aluno.deps.json
+C:\Users\44506315871\Desktop\backend-senai\registro-aluno\bin\Debug\net7.0\registro-aluno.runtimeconfig.json
+C:\Users\44506315871\Desktop\backend-senai\registro-aluno\bin\Debug\net7.0\registro-aluno.dll
+C:\Users\44506315871\Desktop\backend-senai\registro-aluno\bin\Debug\net7.0\registro-aluno.pdb
+C:\Users\44506315871\Desktop\backend-senai\registro-aluno\obj\Debug\net7.0\registro-aluno.csproj.AssemblyReference.cache
+C:\Users\44506315871\Desktop\backend-senai\registro-aluno\obj\Debug\net7.0\registro-aluno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44506315871\Desktop\backend-senai\registro-aluno\obj\Debug\net7.0\registro-aluno.AssemblyInfoInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\registro-aluno\obj\Debug\net7.0\registro-aluno.AssemblyInfo.cs
+C:\Users\44506315871\Desktop\backend-senai\registro-aluno\obj\Debug\net7.0\registro-aluno.csproj.CoreCompileInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\registro-aluno\obj\Debug\net7.0\registro-aluno.dll
+C:\Users\44506315871\Desktop\backend-senai\registro-aluno\obj\Debug\net7.0\refint\registro-aluno.dll
+C:\Users\44506315871\Desktop\backend-senai\registro-aluno\obj\Debug\net7.0\registro-aluno.pdb
+C:\Users\44506315871\Desktop\backend-senai\registro-aluno\obj\Debug\net7.0\registro-aluno.genruntimeconfig.cache
+C:\Users\44506315871\Desktop\backend-senai\registro-aluno\obj\Debug\net7.0\ref\registro-aluno.dll
