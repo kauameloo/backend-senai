@@ -16,26 +16,10 @@ Console.WriteLine($"Informe seu RG: ");
 a.rg = (Console.ReadLine()!);
 
 // VERIFICAÇÃO BOLSISTA
-do
-{
-    Console.WriteLine($"Você é bolsista? s/n");
-    a.opcao = char.Parse(Console.ReadLine()!);
-    switch (a.opcao)
-    {
-        case 's':
-            a.bolsista = true;
-            a.opcaoValida = true;
-            break;
-        case 'n':
-            a.bolsista = false;
-            a.opcaoValida = true;
-            break;
-        default:
-            Console.WriteLine($"Opção invalida");
-            a.opcaoValida = false;
-            break;
-    }
-} while (a.opcaoValida == false);
+Console.WriteLine($"Você é bolsista? s/n");
+a.opcao = char.Parse(Console.ReadLine()!);
+
+a.bolsista = a.opcao == 's' ? true : false;
 // ----------
 
 Console.WriteLine($"Informe sua média final: ");
@@ -44,11 +28,11 @@ a.media = float.Parse(Console.ReadLine()!);
 Console.WriteLine($"Informe sua mensalidade: ");
 a.mensalidade = float.Parse(Console.ReadLine()!);
 
-
+// MENU
 do
-{  
-Console.ForegroundColor = ConsoleColor.Green;
-Console.WriteLine(@$"
+{
+    Console.ForegroundColor = ConsoleColor.Green;
+    Console.WriteLine(@$"
 
 =========================================
 Seja bem-vindo ao SENAI CALCULATOR!
@@ -60,24 +44,24 @@ Selecione uma das seguintes operações:
 ==========================================
 
 ");
-a.opcaoMenu = int.Parse(Console.ReadLine()!);
+    a.opcaoMenu = int.Parse(Console.ReadLine()!);
 
-switch (a.opcaoMenu)
-{
-    case 0:  
-        break;
+    switch (a.opcaoMenu)
+    {
+        case 0:
+            break;
 
-    case 1:
-        a.VerMediaFinal();
-        break;
+        case 1:
+            a.VerMediaFinal();
+            break;
 
-    case 2:
-        a.VerMensalidade();
-        break;
+        case 2:
+            a.VerMensalidade();
+            break;
 
-    default:
-        Console.WriteLine($"Entrada inválida. Tente novamente");
-        break;
-}
+        default:
+            Console.WriteLine($"Entrada inválida. Tente novamente");
+            break;
+    }
 } while (a.opcaoMenu != 0);
 

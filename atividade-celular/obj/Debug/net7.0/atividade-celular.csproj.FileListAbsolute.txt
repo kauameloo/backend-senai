@@ -1,0 +1,15 @@
+C:\Users\44506315871\Desktop\backend-senai\atividade-celular\bin\Debug\net7.0\atividade-celular.exe
+C:\Users\44506315871\Desktop\backend-senai\atividade-celular\bin\Debug\net7.0\atividade-celular.deps.json
+C:\Users\44506315871\Desktop\backend-senai\atividade-celular\bin\Debug\net7.0\atividade-celular.runtimeconfig.json
+C:\Users\44506315871\Desktop\backend-senai\atividade-celular\bin\Debug\net7.0\atividade-celular.dll
+C:\Users\44506315871\Desktop\backend-senai\atividade-celular\bin\Debug\net7.0\atividade-celular.pdb
+C:\Users\44506315871\Desktop\backend-senai\atividade-celular\obj\Debug\net7.0\atividade-celular.csproj.AssemblyReference.cache
+C:\Users\44506315871\Desktop\backend-senai\atividade-celular\obj\Debug\net7.0\atividade-celular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44506315871\Desktop\backend-senai\atividade-celular\obj\Debug\net7.0\atividade-celular.AssemblyInfoInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\atividade-celular\obj\Debug\net7.0\atividade-celular.AssemblyInfo.cs
+C:\Users\44506315871\Desktop\backend-senai\atividade-celular\obj\Debug\net7.0\atividade-celular.csproj.CoreCompileInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\atividade-celular\obj\Debug\net7.0\atividade-celular.dll
+C:\Users\44506315871\Desktop\backend-senai\atividade-celular\obj\Debug\net7.0\refint\atividade-celular.dll
+C:\Users\44506315871\Desktop\backend-senai\atividade-celular\obj\Debug\net7.0\atividade-celular.pdb
+C:\Users\44506315871\Desktop\backend-senai\atividade-celular\obj\Debug\net7.0\atividade-celular.genruntimeconfig.cache
+C:\Users\44506315871\Desktop\backend-senai\atividade-celular\obj\Debug\net7.0\ref\atividade-celular.dll

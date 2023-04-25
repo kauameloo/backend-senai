@@ -16,25 +16,27 @@ namespace registro_aluno
         public char opcao;
 
         // metodos
+        // imprime a média final do aluno
         public void VerMediaFinal() {
-            Console.WriteLine($"A média final do aluno é: {media}");
+            Console.WriteLine($"A média final do aluno é: {this.media}");
         }
 
+        // verifica valor de desconto e imprime valor final da mensalidade
         public void VerMensalidade() {
-            if (bolsista == true && media >= 8)
+            if (this.bolsista == true && this.media >= 8)
             {
-                mensalidadeFinal = mensalidade * 0.5F;
+                this.mensalidadeFinal = this.mensalidade * 0.5F;
             }
-            else if (bolsista == true && media > 6 && media < 8)
+            else if (this.bolsista == true && this.media > 6)
             {
-                mensalidadeFinal = mensalidade * 0.7F;
+                this.mensalidadeFinal = this.mensalidade * 0.7F;
             }
             else
             {
-                mensalidadeFinal = mensalidade * 1;
+                this.mensalidadeFinal = this.mensalidade;
             }
 
-            Console.WriteLine($"O valor da sua mensalidade é: {mensalidadeFinal.ToString("C", new CultureInfo("pt-BR"))}");
+            Console.WriteLine($"O valor da sua mensalidade é: {this.mensalidadeFinal.ToString("C", new CultureInfo("pt-BR"))}");
         }
     }
 }
