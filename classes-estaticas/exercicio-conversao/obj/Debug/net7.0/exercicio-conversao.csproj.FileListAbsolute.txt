@@ -1,0 +1,15 @@
+C:\Users\44506315871\Desktop\backend-senai\classes-estaticas\exercicio-conversao\bin\Debug\net7.0\exercicio-conversao.exe
+C:\Users\44506315871\Desktop\backend-senai\classes-estaticas\exercicio-conversao\bin\Debug\net7.0\exercicio-conversao.deps.json
+C:\Users\44506315871\Desktop\backend-senai\classes-estaticas\exercicio-conversao\bin\Debug\net7.0\exercicio-conversao.runtimeconfig.json
+C:\Users\44506315871\Desktop\backend-senai\classes-estaticas\exercicio-conversao\bin\Debug\net7.0\exercicio-conversao.dll
+C:\Users\44506315871\Desktop\backend-senai\classes-estaticas\exercicio-conversao\bin\Debug\net7.0\exercicio-conversao.pdb
+C:\Users\44506315871\Desktop\backend-senai\classes-estaticas\exercicio-conversao\obj\Debug\net7.0\exercicio-conversao.csproj.AssemblyReference.cache
+C:\Users\44506315871\Desktop\backend-senai\classes-estaticas\exercicio-conversao\obj\Debug\net7.0\exercicio-conversao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44506315871\Desktop\backend-senai\classes-estaticas\exercicio-conversao\obj\Debug\net7.0\exercicio-conversao.AssemblyInfoInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\classes-estaticas\exercicio-conversao\obj\Debug\net7.0\exercicio-conversao.AssemblyInfo.cs
+C:\Users\44506315871\Desktop\backend-senai\classes-estaticas\exercicio-conversao\obj\Debug\net7.0\exercicio-conversao.csproj.CoreCompileInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\classes-estaticas\exercicio-conversao\obj\Debug\net7.0\exercicio-conversao.dll
+C:\Users\44506315871\Desktop\backend-senai\classes-estaticas\exercicio-conversao\obj\Debug\net7.0\refint\exercicio-conversao.dll
+C:\Users\44506315871\Desktop\backend-senai\classes-estaticas\exercicio-conversao\obj\Debug\net7.0\exercicio-conversao.pdb
+C:\Users\44506315871\Desktop\backend-senai\classes-estaticas\exercicio-conversao\obj\Debug\net7.0\exercicio-conversao.genruntimeconfig.cache
+C:\Users\44506315871\Desktop\backend-senai\classes-estaticas\exercicio-conversao\obj\Debug\net7.0\ref\exercicio-conversao.dll

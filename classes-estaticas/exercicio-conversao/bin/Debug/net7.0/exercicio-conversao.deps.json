@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "exercicio-conversao/1.0.0": {
+        "runtime": {
+          "exercicio-conversao.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "exercicio-conversao/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
