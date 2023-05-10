@@ -1,0 +1,30 @@
+C:\Users\44506315871\Desktop\atividade-list\bin\Debug\net7.0\atividade-list.exe
+C:\Users\44506315871\Desktop\atividade-list\bin\Debug\net7.0\atividade-list.deps.json
+C:\Users\44506315871\Desktop\atividade-list\bin\Debug\net7.0\atividade-list.runtimeconfig.json
+C:\Users\44506315871\Desktop\atividade-list\bin\Debug\net7.0\atividade-list.dll
+C:\Users\44506315871\Desktop\atividade-list\bin\Debug\net7.0\atividade-list.pdb
+C:\Users\44506315871\Desktop\atividade-list\obj\Debug\net7.0\atividade-list.csproj.AssemblyReference.cache
+C:\Users\44506315871\Desktop\atividade-list\obj\Debug\net7.0\atividade-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44506315871\Desktop\atividade-list\obj\Debug\net7.0\atividade-list.AssemblyInfoInputs.cache
+C:\Users\44506315871\Desktop\atividade-list\obj\Debug\net7.0\atividade-list.AssemblyInfo.cs
+C:\Users\44506315871\Desktop\atividade-list\obj\Debug\net7.0\atividade-list.csproj.CoreCompileInputs.cache
+C:\Users\44506315871\Desktop\atividade-list\obj\Debug\net7.0\atividade-list.dll
+C:\Users\44506315871\Desktop\atividade-list\obj\Debug\net7.0\refint\atividade-list.dll
+C:\Users\44506315871\Desktop\atividade-list\obj\Debug\net7.0\atividade-list.pdb
+C:\Users\44506315871\Desktop\atividade-list\obj\Debug\net7.0\atividade-list.genruntimeconfig.cache
+C:\Users\44506315871\Desktop\atividade-list\obj\Debug\net7.0\ref\atividade-list.dll
+C:\Users\44506315871\Desktop\backend-senai\Criar List\atividade-list\bin\Debug\net7.0\atividade-list.exe
+C:\Users\44506315871\Desktop\backend-senai\Criar List\atividade-list\bin\Debug\net7.0\atividade-list.deps.json
+C:\Users\44506315871\Desktop\backend-senai\Criar List\atividade-list\bin\Debug\net7.0\atividade-list.runtimeconfig.json
+C:\Users\44506315871\Desktop\backend-senai\Criar List\atividade-list\bin\Debug\net7.0\atividade-list.dll
+C:\Users\44506315871\Desktop\backend-senai\Criar List\atividade-list\bin\Debug\net7.0\atividade-list.pdb
+C:\Users\44506315871\Desktop\backend-senai\Criar List\atividade-list\obj\Debug\net7.0\atividade-list.csproj.AssemblyReference.cache
+C:\Users\44506315871\Desktop\backend-senai\Criar List\atividade-list\obj\Debug\net7.0\atividade-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44506315871\Desktop\backend-senai\Criar List\atividade-list\obj\Debug\net7.0\atividade-list.AssemblyInfoInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\Criar List\atividade-list\obj\Debug\net7.0\atividade-list.AssemblyInfo.cs
+C:\Users\44506315871\Desktop\backend-senai\Criar List\atividade-list\obj\Debug\net7.0\atividade-list.csproj.CoreCompileInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\Criar List\atividade-list\obj\Debug\net7.0\atividade-list.dll
+C:\Users\44506315871\Desktop\backend-senai\Criar List\atividade-list\obj\Debug\net7.0\refint\atividade-list.dll
+C:\Users\44506315871\Desktop\backend-senai\Criar List\atividade-list\obj\Debug\net7.0\atividade-list.pdb
+C:\Users\44506315871\Desktop\backend-senai\Criar List\atividade-list\obj\Debug\net7.0\atividade-list.genruntimeconfig.cache
+C:\Users\44506315871\Desktop\backend-senai\Criar List\atividade-list\obj\Debug\net7.0\ref\atividade-list.dll
