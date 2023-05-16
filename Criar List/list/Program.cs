@@ -13,8 +13,7 @@ List<Produto> produtos = new List<Produto>();
 // ADICIONA PRODUTOS NA LISTA
 // METODO 1
 produtos.Add(
-    new Produto(2563, "camiseta nike", 49.9F)
-);
+new Produto(2563, "camiseta nike", 49.9F));
 
 produtos.Add(
     new Produto(1540, "calça jeans", 79.9F)
