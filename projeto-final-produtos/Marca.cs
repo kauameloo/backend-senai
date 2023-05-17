@@ -8,14 +8,14 @@ namespace projeto_final_produtos
     public class Marca
     {
         // PROPRIEDADES
-        int Codigo { get; set; }
-        string NomeMarca { get; set; }
+        public int Codigo { get; set; }
+        public string NomeMarca { get; set; }
         DateTime DataCadastro = DateTime.Now;
 
-        List<Marca> marcas = new List<Marca>();
+        public static List<Marca> marcas = new List<Marca>();
 
         // METODOS
-        public string Cadastrar()
+        public static Marca Cadastrar()
         {
             Marca _marca = new Marca();
             Console.WriteLine($"Informe o código da marca: ");
@@ -26,7 +26,7 @@ namespace projeto_final_produtos
 
             marcas.Add(_marca);
 
-            return "Marca cadastrada!";
+            return _marca;
         }
 
         public void Listar()
@@ -35,6 +35,7 @@ namespace projeto_final_produtos
             Console.WriteLine($"-------- MARCAS CADASTRADAS --------");
             Console.ResetColor();
 
+            Console.ForegroundColor = ConsoleColor.Green;
             foreach (Marca item in marcas)
             {
                 Console.WriteLine(@$"
@@ -43,6 +44,7 @@ Nome da marca: {item.NomeMarca.ToUpper()}
 Data de cadastro: {item.DataCadastro}
 ");
             }
+            Console.ResetColor();
         }
 
         public string Deletar()
@@ -53,6 +55,11 @@ Data de cadastro: {item.DataCadastro}
             Marca marcaDelete = marcas.Find(x => x.Codigo == cod);
             marcas.Remove(marcaDelete);
             return "Marca removida!";
+        }
+
+        public static explicit operator int(Marca v)
+        {
+            throw new NotImplementedException();
         }
     }
 }

@@ -8,26 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\44506315871\\.nuget\\packages\\": {}
+    "C:\\Users\\kaua-\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\44506315871\\Desktop\\projeto-final-produtos\\projeto-final-produtos.csproj",
+      "projectUniqueName": "C:\\Users\\kaua-\\OneDrive\\Área de Trabalho\\SENAI\\backend-senai\\projeto-final-produtos\\projeto-final-produtos.csproj",
       "projectName": "projeto-final-produtos",
-      "projectPath": "C:\\Users\\44506315871\\Desktop\\projeto-final-produtos\\projeto-final-produtos.csproj",
-      "packagesPath": "C:\\Users\\44506315871\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\44506315871\\Desktop\\projeto-final-produtos\\obj\\",
+      "projectPath": "C:\\Users\\kaua-\\OneDrive\\Área de Trabalho\\SENAI\\backend-senai\\projeto-final-produtos\\projeto-final-produtos.csproj",
+      "packagesPath": "C:\\Users\\kaua-\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kaua-\\OneDrive\\Área de Trabalho\\SENAI\\backend-senai\\projeto-final-produtos\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\44506315871\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\kaua-\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -61,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -13,3 +13,18 @@ C:\Users\44506315871\Desktop\projeto-final-produtos\obj\Debug\net7.0\refint\proj
 C:\Users\44506315871\Desktop\projeto-final-produtos\obj\Debug\net7.0\projeto-final-produtos.pdb
 C:\Users\44506315871\Desktop\projeto-final-produtos\obj\Debug\net7.0\projeto-final-produtos.genruntimeconfig.cache
 C:\Users\44506315871\Desktop\projeto-final-produtos\obj\Debug\net7.0\ref\projeto-final-produtos.dll
+C:\Users\kaua-\OneDrive\Área de Trabalho\SENAI\backend-senai\projeto-final-produtos\bin\Debug\net7.0\projeto-final-produtos.exe
+C:\Users\kaua-\OneDrive\Área de Trabalho\SENAI\backend-senai\projeto-final-produtos\bin\Debug\net7.0\projeto-final-produtos.deps.json
+C:\Users\kaua-\OneDrive\Área de Trabalho\SENAI\backend-senai\projeto-final-produtos\bin\Debug\net7.0\projeto-final-produtos.runtimeconfig.json
+C:\Users\kaua-\OneDrive\Área de Trabalho\SENAI\backend-senai\projeto-final-produtos\bin\Debug\net7.0\projeto-final-produtos.dll
+C:\Users\kaua-\OneDrive\Área de Trabalho\SENAI\backend-senai\projeto-final-produtos\bin\Debug\net7.0\projeto-final-produtos.pdb
+C:\Users\kaua-\OneDrive\Área de Trabalho\SENAI\backend-senai\projeto-final-produtos\obj\Debug\net7.0\projeto-final-produtos.csproj.AssemblyReference.cache
+C:\Users\kaua-\OneDrive\Área de Trabalho\SENAI\backend-senai\projeto-final-produtos\obj\Debug\net7.0\projeto-final-produtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kaua-\OneDrive\Área de Trabalho\SENAI\backend-senai\projeto-final-produtos\obj\Debug\net7.0\projeto-final-produtos.AssemblyInfoInputs.cache
+C:\Users\kaua-\OneDrive\Área de Trabalho\SENAI\backend-senai\projeto-final-produtos\obj\Debug\net7.0\projeto-final-produtos.AssemblyInfo.cs
+C:\Users\kaua-\OneDrive\Área de Trabalho\SENAI\backend-senai\projeto-final-produtos\obj\Debug\net7.0\projeto-final-produtos.csproj.CoreCompileInputs.cache
+C:\Users\kaua-\OneDrive\Área de Trabalho\SENAI\backend-senai\projeto-final-produtos\obj\Debug\net7.0\projeto-final-produtos.dll
+C:\Users\kaua-\OneDrive\Área de Trabalho\SENAI\backend-senai\projeto-final-produtos\obj\Debug\net7.0\refint\projeto-final-produtos.dll
+C:\Users\kaua-\OneDrive\Área de Trabalho\SENAI\backend-senai\projeto-final-produtos\obj\Debug\net7.0\projeto-final-produtos.pdb
+C:\Users\kaua-\OneDrive\Área de Trabalho\SENAI\backend-senai\projeto-final-produtos\obj\Debug\net7.0\projeto-final-produtos.genruntimeconfig.cache
+C:\Users\kaua-\OneDrive\Área de Trabalho\SENAI\backend-senai\projeto-final-produtos\obj\Debug\net7.0\ref\projeto-final-produtos.dll
