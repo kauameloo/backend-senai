@@ -15,9 +15,12 @@ namespace projeto_final_produtos
         public static List<Marca> marcas = new List<Marca>();
 
         // METODOS
-        public static Marca Cadastrar()
+        public Marca Cadastrar()
         {
             Marca _marca = new Marca();
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine($"-------- CADASTRO MARCA --------");
+            Console.ResetColor();
             Console.WriteLine($"Informe o código da marca: ");
             _marca.Codigo = int.Parse(Console.ReadLine()!);
 
@@ -25,6 +28,7 @@ namespace projeto_final_produtos
             _marca.NomeMarca = Console.ReadLine()!;
 
             marcas.Add(_marca);
+            Console.Clear();
 
             return _marca;
         }
@@ -55,11 +59,6 @@ Data de cadastro: {item.DataCadastro}
             Marca marcaDelete = marcas.Find(x => x.Codigo == cod);
             marcas.Remove(marcaDelete);
             return "Marca removida!";
-        }
-
-        public static explicit operator int(Marca v)
-        {
-            throw new NotImplementedException();
         }
     }
 }

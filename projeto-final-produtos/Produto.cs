@@ -14,14 +14,30 @@ namespace projeto_final_produtos
         DateTime DataCadastro = DateTime.Now;
         public Marca Marca = new Marca();
         public Usuario Usuario = new Usuario();
-        List<Produto> produtos = new List<Produto>();
+        public static List<Produto> produtos = new List<Produto>();
 
         // METHODS
         public void Cadastrar()
         {
+            Console.Clear();
             Produto _produto = new Produto();
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine($"-------- CADASTRO PRODUTO --------");
+            Console.ResetColor();
+
             Console.WriteLine($"Informe o código do produto: ");
             _produto.Codigo = int.Parse(Console.ReadLine()!);
+
+            Produto codigoExistente;
+            codigoExistente = Produto.produtos.Find(x => x.Codigo == _produto.Codigo);
+
+
+
+
+
+
+
+
 
             Console.WriteLine($"Informe o nome do produto: ");
             _produto.NomeProduto = Console.ReadLine()!;
@@ -29,22 +45,71 @@ namespace projeto_final_produtos
             Console.WriteLine($"Informe o valor do produto: ");
             _produto.Preco = float.Parse(Console.ReadLine()!);
 
-            Console.WriteLine($"Informe o código da marca: ");
-            int codigoMarca = int.Parse(Console.ReadLine()!);
+            Marca marcaExistente;
+            string opcao;
+            do
+            {
+            InfMarca:
+                Console.WriteLine($"Informe o código da marca: ");
+                int codigoMarca = int.Parse(Console.ReadLine()!);
 
-            Marca marcaExistente = Marca.marcas.Find(x => x.Codigo == codigoMarca);
-            if (marcaExistente != null)
-            {
-                _produto.Marca = marcaExistente;
-            }
-            else
-            {
-                Console.WriteLine($"Marca não encontrada. Cadastre uma nova ou insira uma existente");
-            }
+                marcaExistente = Marca.marcas.Find(x => x.Codigo == codigoMarca);
+                if (marcaExistente != null)
+                {
+                    _produto.Marca = marcaExistente;
+                }
+                else
+                {
+                    Console.Clear();
+                    Console.ForegroundColor = ConsoleColor.Red;
+                    Console.WriteLine($"MARCA NÃO ENCONTRADA!");
+                    Console.ResetColor();
+                MenuMarca:
+                    Console.ForegroundColor = ConsoleColor.Cyan;
+                    Console.WriteLine(@$"
+------------- MENU -------------
+[1] - Cadastrar nova marca
+[2] - Informar marca existente
+--------------------------------
+");
+                    Console.ResetColor();
+                    opcao = Console.ReadLine();
+
+                    switch (opcao)
+                    {
+                        case "1":
+                            Console.Clear();
+
+                            Marca m = new Marca();
+                            m.Cadastrar();
+                            Console.Clear();
+                            break;
+
+                        case "2":
+                            Console.Clear();
+                            goto InfMarca;
+                        default:
+                            Console.Clear();
+                            Console.ForegroundColor = ConsoleColor.Red;
+                            Console.WriteLine($"OPÇÃO INVÁLIDA!");
+                            Console.ResetColor();
+                            Console.WriteLine($"Pressione ENTER para tentar novamente.");
+                            Console.ReadKey();
+                            Console.Clear();
+                            goto MenuMarca;
+                    }
+                }
+            } while (marcaExistente == null);
+
 
             _produto.Usuario = new Usuario();
 
             produtos.Add(_produto);
+            Console.Clear();
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine($"Produto cadastrado com sucesso!");
+            Console.ResetColor();
+            
 
         }
         public void Listar()
@@ -52,13 +117,13 @@ namespace projeto_final_produtos
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine($"-------- PRODUTOS CADASTRADOS --------");
             Console.ResetColor();
-            
+
             Console.ForegroundColor = ConsoleColor.Green;
             foreach (Produto item in produtos)
             {
                 Console.WriteLine(@$"
 Código: {item.Codigo}
-Marca: {item.Marca.NomeMarca}
+Marca: {item.Marca.NomeMarca.ToUpper()}
 Nome do produto: {item.NomeProduto.ToUpper()}
 Valor do produto: {item.Preco:C}
 Data de cadastro: {item.DataCadastro}
@@ -79,3 +144,5 @@ Data de cadastro: {item.DataCadastro}
 
     }
 }
+
+// CASO AO CRIAR PRODUTO O CODIGO SEJA O MESMO DE UM PRODUTO EXISTENTE, VOLTAR E PERGUNTAR NOVAMENTE

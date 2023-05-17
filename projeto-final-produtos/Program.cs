@@ -1,10 +1,12 @@
 ﻿using projeto_final_produtos;
 
-Produto p = new Produto();
-Marca m = new Marca();
+// Produto p = new Produto();
+// Marca m = new Marca();
 
-Marca.Cadastrar();
-m.Listar();
-p.Cadastrar();
+// Marca.Cadastrar();
+// m.Listar();
+// p.Cadastrar();
 
-p.Listar();
+// p.Listar();
+
+Login login = new Login();
