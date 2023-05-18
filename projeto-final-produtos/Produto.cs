@@ -21,23 +21,23 @@ namespace projeto_final_produtos
         {
             Console.Clear();
             Produto _produto = new Produto();
+        Codigo:
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine($"-------- CADASTRO PRODUTO --------");
             Console.ResetColor();
 
+            Produto codigoExistente;
+
             Console.WriteLine($"Informe o código do produto: ");
             _produto.Codigo = int.Parse(Console.ReadLine()!);
 
-            Produto codigoExistente;
             codigoExistente = Produto.produtos.Find(x => x.Codigo == _produto.Codigo);
-
-
-
-
-
-
-
-
+            if (codigoExistente != null)
+            {
+                Console.Clear();
+                Console.WriteLine($"O codigo informado já existe! Tente novamente");
+                goto Codigo;
+            }
 
             Console.WriteLine($"Informe o nome do produto: ");
             _produto.NomeProduto = Console.ReadLine()!;
@@ -109,7 +109,7 @@ namespace projeto_final_produtos
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine($"Produto cadastrado com sucesso!");
             Console.ResetColor();
-            
+
 
         }
         public void Listar()
@@ -133,16 +133,23 @@ Data de cadastro: {item.DataCadastro}
         }
         public string Deletar()
         {
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine($"-------- REMOVER PRODUTOS --------");
+            Console.ResetColor();
+
             Console.WriteLine($"Informe o codigo do produto que deseja remover: ");
             int cod = int.Parse(Console.ReadLine()!);
 
             Produto produtoDelete = produtos.Find(x => x.Codigo == cod);
             produtos.Remove(produtoDelete);
+
+            Console.Clear();
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine($"PRODUTO REMOVIDO COM SUCESSO!");
+            Console.ResetColor();
             return "Produto removido!";
         }
 
 
     }
 }
-
-// CASO AO CRIAR PRODUTO O CODIGO SEJA O MESMO DE UM PRODUTO EXISTENTE, VOLTAR E PERGUNTAR NOVAMENTE

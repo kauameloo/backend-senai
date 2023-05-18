@@ -15,6 +15,7 @@ namespace projeto_final_produtos
         public static List<Marca> marcas = new List<Marca>();
 
         // METODOS
+        // METODO CADASTRAR DANDO CONFLITO AO JÁ EXISTIR UMA MARCA, É POSSIVEL CRIAR UMA OUTRA EM CIMA DO CÓDIGO EXISTENTE ---- FIXAR
         public Marca Cadastrar()
         {
             Marca _marca = new Marca();
@@ -39,6 +40,14 @@ namespace projeto_final_produtos
             Console.WriteLine($"-------- MARCAS CADASTRADAS --------");
             Console.ResetColor();
 
+            if (marcas.Count == 0)
+            {
+                Console.ForegroundColor = ConsoleColor.Yellow;
+                Console.WriteLine("Nenhuma marca cadastrada.");
+                Console.ResetColor();
+                return;
+            }
+
             Console.ForegroundColor = ConsoleColor.Green;
             foreach (Marca item in marcas)
             {
@@ -53,11 +62,19 @@ Data de cadastro: {item.DataCadastro}
 
         public string Deletar()
         {
+            Console.ForegroundColor = ConsoleColor.Blue;
+            Console.WriteLine($"-------- REMOVER MARCAS --------");
+            Console.ResetColor();
             Console.WriteLine($"Informe o codigo da marca que deseja remover: ");
             int cod = int.Parse(Console.ReadLine()!);
 
             Marca marcaDelete = marcas.Find(x => x.Codigo == cod);
             marcas.Remove(marcaDelete);
+
+            Console.Clear();
+            Console.ForegroundColor = ConsoleColor.Green;
+            Console.WriteLine($"MARCA REMOVIDA COM SUCESSO!");
+            Console.ResetColor();
             return "Marca removida!";
         }
     }
