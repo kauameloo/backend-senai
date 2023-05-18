@@ -22,14 +22,45 @@ namespace projeto_final_produtos
             Console.ForegroundColor = ConsoleColor.Blue;
             Console.WriteLine($"-------- CADASTRO MARCA --------");
             Console.ResetColor();
+
+
+            Marca codigoExistente;
+            Marca nomeExistente;
             Console.WriteLine($"Informe o código da marca: ");
             _marca.Codigo = int.Parse(Console.ReadLine()!);
 
             Console.WriteLine($"Informe o nome da marca: ");
             _marca.NomeMarca = Console.ReadLine()!;
 
-            marcas.Add(_marca);
-            Console.Clear();
+            codigoExistente = marcas.Find(x => x.Codigo == _marca.Codigo);
+            nomeExistente = marcas.Find(x => x.NomeMarca == _marca.NomeMarca);
+
+
+            if (codigoExistente != null || nomeExistente != null)
+            {
+                Console.Clear();
+                Console.ForegroundColor = ConsoleColor.Red;
+                Console.WriteLine($"Esse NOME e/ou CODIGO de marca já existem!");
+                Console.ResetColor();
+                Console.WriteLine(@$"Verifique as marcas existentes e tente novamente...");
+
+            }
+            else
+            {
+                marcas.Add(_marca);
+                Console.Clear();
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine($"Marca cadastrada com sucesso.");
+                Console.ResetColor();
+            }
+
+
+
+
+
+
+
+
 
             return _marca;
         }
@@ -62,20 +93,32 @@ Data de cadastro: {item.DataCadastro}
 
         public string Deletar()
         {
-            Console.ForegroundColor = ConsoleColor.Blue;
-            Console.WriteLine($"-------- REMOVER MARCAS --------");
-            Console.ResetColor();
-            Console.WriteLine($"Informe o codigo da marca que deseja remover: ");
-            int cod = int.Parse(Console.ReadLine()!);
+            if (marcas.Any() != false)
+            {
+                Console.ForegroundColor = ConsoleColor.Blue;
+                Console.WriteLine($"-------- REMOVER MARCAS --------");
+                Console.ResetColor();
+                Console.WriteLine($"Informe o codigo da marca que deseja remover: ");
+                int cod = int.Parse(Console.ReadLine()!);
 
-            Marca marcaDelete = marcas.Find(x => x.Codigo == cod);
-            marcas.Remove(marcaDelete);
+                Marca marcaDelete = marcas.Find(x => x.Codigo == cod);
+                marcas.Remove(marcaDelete);
 
-            Console.Clear();
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine($"MARCA REMOVIDA COM SUCESSO!");
-            Console.ResetColor();
-            return "Marca removida!";
+                Console.Clear();
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine($"MARCA REMOVIDA COM SUCESSO!");
+                Console.ResetColor();
+                return "Marca removida!";
+            }
+            else
+            {
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine($"NÃO HÁ NENHUMA MARCA PARA SER REMOVIDO.");
+                Console.ResetColor();
+                return "Não há marca para ser removida!";
+            }
+
+
         }
     }
 }

@@ -35,6 +35,8 @@ namespace projeto_final_produtos
             Console.WriteLine($"Informe sua senha: ");
             user.Senha = Console.ReadLine();
 
+            user.DataCadastro = DateTime.Now;
+
             cod++;
 
             usuarios.Add(user);

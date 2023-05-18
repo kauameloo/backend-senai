@@ -35,7 +35,9 @@ namespace projeto_final_produtos
             if (codigoExistente != null)
             {
                 Console.Clear();
+                Console.ForegroundColor = ConsoleColor.Red;
                 Console.WriteLine($"O codigo informado já existe! Tente novamente");
+                Console.ResetColor();
                 goto Codigo;
             }
 
@@ -133,21 +135,34 @@ Data de cadastro: {item.DataCadastro}
         }
         public string Deletar()
         {
-            Console.ForegroundColor = ConsoleColor.Blue;
-            Console.WriteLine($"-------- REMOVER PRODUTOS --------");
-            Console.ResetColor();
+            if (produtos.Any() != false)
+            {
+                Console.ForegroundColor = ConsoleColor.Blue;
+                Console.WriteLine($"-------- REMOVER PRODUTOS --------");
+                Console.ResetColor();
 
-            Console.WriteLine($"Informe o codigo do produto que deseja remover: ");
-            int cod = int.Parse(Console.ReadLine()!);
+                Console.WriteLine($"Informe o codigo do produto que deseja remover: ");
+                int cod = int.Parse(Console.ReadLine()!);
 
-            Produto produtoDelete = produtos.Find(x => x.Codigo == cod);
-            produtos.Remove(produtoDelete);
+                Produto produtoDelete = produtos.Find(x => x.Codigo == cod);
+                produtos.Remove(produtoDelete);
 
-            Console.Clear();
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.WriteLine($"PRODUTO REMOVIDO COM SUCESSO!");
-            Console.ResetColor();
-            return "Produto removido!";
+                Console.Clear();
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine($"PRODUTO REMOVIDO COM SUCESSO!");
+                Console.ResetColor();
+                return "Produto removido!";
+            }
+            else
+            {
+                Console.ForegroundColor = ConsoleColor.Green;
+                Console.WriteLine($"NÃO HÁ NENHUM PRODUTO PARA SER REMOVIDO.");
+                Console.ResetColor();
+                return "Não há nenhum produto para ser removido!";
+
+            }
+
+
         }
 
 

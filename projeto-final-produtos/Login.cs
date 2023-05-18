@@ -8,11 +8,11 @@ namespace projeto_final_produtos
     public class Login
     {
         public bool Logado { get; set; }
-
+        Usuario user = new Usuario();
         // METODOS
         public Login()
         {
-            Usuario user = new Usuario();
+
             Logar(user);
 
             if (Logado == true)
@@ -23,6 +23,10 @@ namespace projeto_final_produtos
 
         public void GerarMenu()
         {
+
+
+
+
             Produto produto = new Produto();
             Marca marca = new Marca();
             string opcao;
@@ -30,6 +34,7 @@ namespace projeto_final_produtos
             {
                 Console.ForegroundColor = ConsoleColor.Cyan;
                 Console.WriteLine(@$"
+{user.Nome}
 --------- MENU ---------
 [1] - Cadastrar produto
 [2] - Listar produtos
@@ -39,6 +44,7 @@ namespace projeto_final_produtos
 [5] - Listar marca
 [6] - Remover marca
 ------------------------
+[7] - Deslogar
 [0] - Sair
 ------------------------
 ");
@@ -71,9 +77,14 @@ namespace projeto_final_produtos
                         Console.Clear();
                         marca.Deletar();
                         break;
+                    case "7":
+                        Console.Clear();
+                        Deslogar();
+                        break;
                     case "0":
                         Console.Clear();
                         Console.WriteLine($"Desligando programa...");
+                        Environment.Exit(0);
                         break;
                     default:
                         Console.Clear();
@@ -93,6 +104,7 @@ namespace projeto_final_produtos
 
         public void Logar(Usuario user)
         {
+
             Console.Clear();
             string opcao;
             do
@@ -128,6 +140,7 @@ Escolha uma opção:
                         if (Usuario.usuarios.Any(x => x.Email == email) && Usuario.usuarios.Any(x => x.Senha == password))
                         {
                             this.Logado = true;
+
                             Console.Clear();
                             Console.ForegroundColor = ConsoleColor.Green;
                             Console.WriteLine($"Login efetuado com sucesso!");
@@ -180,6 +193,12 @@ Escolha uma opção:
         public string Deslogar()
         {
             Logado = false;
+
+            Logar(new Usuario());
+            if (Logado == true)
+            {
+                GerarMenu();
+            }
             return "Usuário deslogado.";
         }
 
