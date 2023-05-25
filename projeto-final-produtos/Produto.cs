@@ -14,6 +14,7 @@ namespace projeto_final_produtos
         DateTime DataCadastro = DateTime.Now;
         public Marca Marca = new Marca();
         public Usuario Usuario = new Usuario();
+        public Usuario CadastradoPor = new Usuario();
         public static List<Produto> produtos = new List<Produto>();
 
         // METHODS
@@ -129,6 +130,7 @@ Marca: {item.Marca.NomeMarca.ToUpper()}
 Nome do produto: {item.NomeProduto.ToUpper()}
 Valor do produto: {item.Preco:C}
 Data de cadastro: {item.DataCadastro}
+Cadastrado por: {item.CadastradoPor.Nome}
 ");
             }
             Console.ResetColor();
