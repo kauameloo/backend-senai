@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jLRM+zVPQm5DEVH8gm3KEEr2iJk821FfSxw8Kom4RdCsJQSnXVA5zhuagPk0NZPsUtsWP3cCLej+x10TAvLv+w==",
+  "dgSpecHash": "xf3e8LmWrUQzkLWOYU6TTLr+2go5yK1wiwlSHwK/OEnbsgX5YNqFXFb94bwhF0LYK+BjzvVDNmd64YkydpX5Kw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\44506315871\\Desktop\\console-mvc\\console-mvc.csproj",
+  "projectFilePath": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Arquitetura MVC\\console-mvc\\console-mvc.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

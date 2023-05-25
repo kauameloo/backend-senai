@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\44506315871\\Desktop\\console-mvc\\console-mvc.csproj": {}
+    "C:\\Users\\44506315871\\Desktop\\backend-senai\\Arquitetura MVC\\console-mvc\\console-mvc.csproj": {}
   },
   "projects": {
-    "C:\\Users\\44506315871\\Desktop\\console-mvc\\console-mvc.csproj": {
+    "C:\\Users\\44506315871\\Desktop\\backend-senai\\Arquitetura MVC\\console-mvc\\console-mvc.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\44506315871\\Desktop\\console-mvc\\console-mvc.csproj",
+        "projectUniqueName": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Arquitetura MVC\\console-mvc\\console-mvc.csproj",
         "projectName": "console-mvc",
-        "projectPath": "C:\\Users\\44506315871\\Desktop\\console-mvc\\console-mvc.csproj",
+        "projectPath": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Arquitetura MVC\\console-mvc\\console-mvc.csproj",
         "packagesPath": "C:\\Users\\44506315871\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\44506315871\\Desktop\\console-mvc\\obj\\",
+        "outputPath": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Arquitetura MVC\\console-mvc\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\44506315871\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -69,18 +69,6 @@ namespace console_mvc.Model
             string[] linhas = {PrepararLinhasCSV(p)};
 
             File.AppendAllLines(PATH, linhas);
-
-            Console.WriteLine($"Informe o codigo do produto: ");
-            p.Codigo = int.Parse(Console.ReadLine()!);
-
-            Console.WriteLine($"Informe o nome do produto: ");
-            p.Nome = Console.ReadLine();
-            
-            Console.WriteLine($"Informe o valor do produto: ");
-            p.Preco = int.Parse(Console.ReadLine()!);
-            
-            
-            
         }
    }
 }
