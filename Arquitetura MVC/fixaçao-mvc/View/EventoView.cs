@@ -36,6 +36,14 @@ namespace fixaçao_mvc.View
             }
         }
 
+        public string DeletarProduto()
+        {
+            Console.WriteLine($"Informe o nome do evento: ");
+            string nome = Console.ReadLine();
+
+            return nome;
+        }
+
 
         public void Menu()
         {
@@ -56,6 +64,9 @@ namespace fixaçao_mvc.View
 ==========================================
 
 ");
+                Console.ResetColor();
+                opcao = Console.ReadLine();
+
                 switch (opcao)
                 {
                     case "1":
@@ -63,7 +74,7 @@ namespace fixaçao_mvc.View
                         break;
 
                     case "2":
-
+                        controller.RemoverEvento();
                         break;
                     case "3":
                         controller.ListarEvento();
@@ -71,8 +82,8 @@ namespace fixaçao_mvc.View
                     case "0":
                         break;
                     default:
-                    Console.WriteLine($"Opção inválida.");
-                    
+                        Console.WriteLine($"Opção inválida.");
+
                         break;
                 }
 

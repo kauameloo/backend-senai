@@ -13,6 +13,9 @@ namespace fixaçao_mvc.Model
         public string Descricao { get; set; }
         public DateTime Data { get; set; }
 
+        public static List<EventoModel> eventos = new List<EventoModel>();
+
+
 
         // caminho da pasta e do arquivo csv
         private const string PATH = "Database/Eventos.csv";
@@ -39,7 +42,6 @@ namespace fixaçao_mvc.Model
         // método para preparar as linhas a serem inseridas no csv
         public List<EventoModel> Ler()
         {
-            List<EventoModel> eventos = new List<EventoModel>();
 
             string[] linhas = File.ReadAllLines(PATH);
 
@@ -51,7 +53,7 @@ namespace fixaçao_mvc.Model
 
                 e.Nome = atributos[0];
                 e.Descricao = atributos[1];
-                e.Data = DateTime.Parse(atributos [2]);
+                e.Data = DateTime.Parse(atributos[2]);
 
                 eventos.Add(e);
             }
@@ -69,14 +71,14 @@ namespace fixaçao_mvc.Model
         // método para inserir um produto na linha do csv
         public void Inserir(EventoModel e)
         {
-            string[] linhas = {PrepLinha(e)};
+            string[] linhas = { PrepLinha(e) };
 
             File.AppendAllLines(PATH, linhas);
         }
 
         public void Deletar(EventoModel e)
-        {
-            
+        { 
+            eventos.Remove(e);
         }
     }
 }

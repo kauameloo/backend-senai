@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\44506315871\\Desktop\\fixaçao-mvc\\fixaçao-mvc.csproj",
+      "projectUniqueName": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Arquitetura MVC\\fixaçao-mvc\\fixaçao-mvc.csproj",
       "projectName": "fixaçao-mvc",
-      "projectPath": "C:\\Users\\44506315871\\Desktop\\fixaçao-mvc\\fixaçao-mvc.csproj",
+      "projectPath": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Arquitetura MVC\\fixaçao-mvc\\fixaçao-mvc.csproj",
       "packagesPath": "C:\\Users\\44506315871\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\44506315871\\Desktop\\fixaçao-mvc\\obj\\",
+      "outputPath": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Arquitetura MVC\\fixaçao-mvc\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\44506315871\\AppData\\Roaming\\NuGet\\NuGet.Config",

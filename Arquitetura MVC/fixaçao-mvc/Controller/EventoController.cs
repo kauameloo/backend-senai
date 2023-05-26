@@ -22,6 +22,12 @@ namespace fixaçao_mvc.Controller
             eventoView.Listar(eventos);
         }
 
+        public void RemoverEvento()
+        {
+            EventoModel eventoDelete = EventoModel.eventos.Find(x => x.Nome == eventoView.DeletarProduto());
+            eventoModel.Deletar(eventoDelete);
+        }
+
         public void MenuMostrar()
         {
             eventoView.Menu();

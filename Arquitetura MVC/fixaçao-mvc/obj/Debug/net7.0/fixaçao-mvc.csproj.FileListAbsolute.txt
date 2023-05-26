@@ -13,3 +13,18 @@ C:\Users\44506315871\Desktop\fixaçao-mvc\obj\Debug\net7.0\refint\fixaçao-mvc.d
 C:\Users\44506315871\Desktop\fixaçao-mvc\obj\Debug\net7.0\fixaçao-mvc.pdb
 C:\Users\44506315871\Desktop\fixaçao-mvc\obj\Debug\net7.0\fixaçao-mvc.genruntimeconfig.cache
 C:\Users\44506315871\Desktop\fixaçao-mvc\obj\Debug\net7.0\ref\fixaçao-mvc.dll
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\fixaçao-mvc\bin\Debug\net7.0\fixaçao-mvc.exe
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\fixaçao-mvc\bin\Debug\net7.0\fixaçao-mvc.deps.json
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\fixaçao-mvc\bin\Debug\net7.0\fixaçao-mvc.runtimeconfig.json
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\fixaçao-mvc\bin\Debug\net7.0\fixaçao-mvc.dll
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\fixaçao-mvc\bin\Debug\net7.0\fixaçao-mvc.pdb
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\fixaçao-mvc\obj\Debug\net7.0\fixaçao-mvc.csproj.AssemblyReference.cache
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\fixaçao-mvc\obj\Debug\net7.0\fixaçao-mvc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\fixaçao-mvc\obj\Debug\net7.0\fixaçao-mvc.AssemblyInfoInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\fixaçao-mvc\obj\Debug\net7.0\fixaçao-mvc.AssemblyInfo.cs
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\fixaçao-mvc\obj\Debug\net7.0\fixaçao-mvc.csproj.CoreCompileInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\fixaçao-mvc\obj\Debug\net7.0\fixaçao-mvc.dll
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\fixaçao-mvc\obj\Debug\net7.0\refint\fixaçao-mvc.dll
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\fixaçao-mvc\obj\Debug\net7.0\fixaçao-mvc.pdb
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\fixaçao-mvc\obj\Debug\net7.0\fixaçao-mvc.genruntimeconfig.cache
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\fixaçao-mvc\obj\Debug\net7.0\ref\fixaçao-mvc.dll
