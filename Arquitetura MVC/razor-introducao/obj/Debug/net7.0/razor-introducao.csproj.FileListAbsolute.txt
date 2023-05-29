@@ -29,3 +29,34 @@ C:\Users\44506315871\Desktop\razor-introducao\obj\Debug\net7.0\refint\razor-intr
 C:\Users\44506315871\Desktop\razor-introducao\obj\Debug\net7.0\razor-introducao.pdb
 C:\Users\44506315871\Desktop\razor-introducao\obj\Debug\net7.0\razor-introducao.genruntimeconfig.cache
 C:\Users\44506315871\Desktop\razor-introducao\obj\Debug\net7.0\ref\razor-introducao.dll
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\razor-introducao\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\razor-introducao\bin\Debug\net7.0\appsettings.json
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\razor-introducao\bin\Debug\net7.0\razor-introducao.staticwebassets.runtime.json
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\razor-introducao\bin\Debug\net7.0\razor-introducao.exe
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\razor-introducao\bin\Debug\net7.0\razor-introducao.deps.json
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\razor-introducao\bin\Debug\net7.0\razor-introducao.runtimeconfig.json
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\razor-introducao\bin\Debug\net7.0\razor-introducao.dll
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\razor-introducao\bin\Debug\net7.0\razor-introducao.pdb
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\razor-introducao\obj\Debug\net7.0\razor-introducao.csproj.AssemblyReference.cache
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\razor-introducao\obj\Debug\net7.0\razor-introducao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\razor-introducao\obj\Debug\net7.0\razor-introducao.AssemblyInfoInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\razor-introducao\obj\Debug\net7.0\razor-introducao.AssemblyInfo.cs
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\razor-introducao\obj\Debug\net7.0\razor-introducao.csproj.CoreCompileInputs.cache
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\razor-introducao\obj\Debug\net7.0\razor-introducao.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\razor-introducao\obj\Debug\net7.0\razor-introducao.RazorAssemblyInfo.cache
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\razor-introducao\obj\Debug\net7.0\razor-introducao.RazorAssemblyInfo.cs
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\razor-introducao\obj\Debug\net7.0\staticwebassets\msbuild.razor-introducao.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\razor-introducao\obj\Debug\net7.0\staticwebassets\msbuild.build.razor-introducao.props
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\razor-introducao\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.razor-introducao.props
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\razor-introducao\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.razor-introducao.props
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\razor-introducao\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\razor-introducao\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\razor-introducao\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\razor-introducao\obj\Debug\net7.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\razor-introducao\obj\Debug\net7.0\scopedcss\bundle\razor-introducao.styles.css
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\razor-introducao\obj\Debug\net7.0\scopedcss\projectbundle\razor-introducao.bundle.scp.css
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\razor-introducao\obj\Debug\net7.0\razor-introducao.dll
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\razor-introducao\obj\Debug\net7.0\refint\razor-introducao.dll
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\razor-introducao\obj\Debug\net7.0\razor-introducao.pdb
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\razor-introducao\obj\Debug\net7.0\razor-introducao.genruntimeconfig.cache
+C:\Users\44506315871\Desktop\backend-senai\Arquitetura MVC\razor-introducao\obj\Debug\net7.0\ref\razor-introducao.dll

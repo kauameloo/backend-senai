@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gonEs0NuOSzULFGkZW2kQihp6TE1g1mbDHjZ/jU9WwUj8xG8pdNL24aBnnMtgKXP14CfuoBWNqYtaaOdZL5QPg==",
+  "dgSpecHash": "B3Odxh4a/n6wOY5XOaT2OBRkv568Pl1y/rYrkCpBy2El7pUmU9h7mGslrERoClxxGMRukKMcwhXd1YVLuHqX5A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\44506315871\\Desktop\\razor-introducao\\razor-introducao.csproj",
+  "projectFilePath": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Arquitetura MVC\\razor-introducao\\razor-introducao.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

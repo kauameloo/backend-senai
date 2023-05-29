@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\44506315871\\Desktop\\razor-introducao\\razor-introducao.csproj",
+      "projectUniqueName": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Arquitetura MVC\\razor-introducao\\razor-introducao.csproj",
       "projectName": "razor-introducao",
-      "projectPath": "C:\\Users\\44506315871\\Desktop\\razor-introducao\\razor-introducao.csproj",
+      "projectPath": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Arquitetura MVC\\razor-introducao\\razor-introducao.csproj",
       "packagesPath": "C:\\Users\\44506315871\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\44506315871\\Desktop\\razor-introducao\\obj\\",
+      "outputPath": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Arquitetura MVC\\razor-introducao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\44506315871\\AppData\\Roaming\\NuGet\\NuGet.Config",
