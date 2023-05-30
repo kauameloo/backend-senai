@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\44506315871\\Desktop\\projeto-gamer\\projeto-gamer.csproj": {}
+    "C:\\Users\\44506315871\\Desktop\\backend-senai\\Banco de Dados\\projeto-gamer\\projeto-gamer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\44506315871\\Desktop\\projeto-gamer\\projeto-gamer.csproj": {
+    "C:\\Users\\44506315871\\Desktop\\backend-senai\\Banco de Dados\\projeto-gamer\\projeto-gamer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\44506315871\\Desktop\\projeto-gamer\\projeto-gamer.csproj",
+        "projectUniqueName": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Banco de Dados\\projeto-gamer\\projeto-gamer.csproj",
         "projectName": "projeto-gamer",
-        "projectPath": "C:\\Users\\44506315871\\Desktop\\projeto-gamer\\projeto-gamer.csproj",
+        "projectPath": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Banco de Dados\\projeto-gamer\\projeto-gamer.csproj",
         "packagesPath": "C:\\Users\\44506315871\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\44506315871\\Desktop\\projeto-gamer\\obj\\",
+        "outputPath": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Banco de Dados\\projeto-gamer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\44506315871\\AppData\\Roaming\\NuGet\\NuGet.Config",
