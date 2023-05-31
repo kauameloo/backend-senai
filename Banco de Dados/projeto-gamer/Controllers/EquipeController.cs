@@ -33,18 +33,52 @@ namespace projeto_gamer.Controllers
             return View();
         }
 
+        [Route("Cadastrar")]
         public IActionResult Cadastrar(IFormCollection form)
         {
             Equipe novaEquipe = new Equipe();
+            
             novaEquipe.Nome = form["Nome"].ToString();
-            novaEquipe.Imagem = form["Imagem"].ToString();
+
+            // retorna string, precisamos que retorne imagem
+            // novaEquipe.Imagem = form["Imagem"].ToString();
+
+
+            // lógica do upload de imagem
+             if (form.Files.Count > 0)
+            {
+                
+                var file = form.Files[0];
+
+                var folder = Path.Combine(Directory.GetCurrentDirectory(),"wwwroot/img/Equipes");
+
+                if (!Directory.Exists(folder))
+                {
+                    Directory.CreateDirectory(folder);
+                }
+
+                //gera o caminho completo até o caminho do arquivo(imagem - nome com extensão)
+                var path = Path.Combine(folder, file.FileName);
+
+                //using para que a instrução dentro dele seja encerrado assim que for executada
+                using (var stream = new FileStream(path, FileMode.Create))
+                {
+                    file.CopyTo(stream);
+                }
+
+                novaEquipe.Imagem = file.FileName;
+            }
+            else
+            {
+                novaEquipe.Imagem = "padrao.png";
+            }
+            //fim da lógica de upload
+
 
             c.Equipe.Add(novaEquipe);
             // c.Add(novaEquipe);
 
             c.SaveChanges();
-
-            ViewBag.Equipe = c.Equipe.ToList();
 
             return LocalRedirect("~/Equipe/Listar");
         }
