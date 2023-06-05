@@ -13,8 +13,32 @@
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
+      "Id": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Banco de Dados\\projeto-gamer\\wwwroot\\img\\Equipes\\Ibis_Logo_2011.png",
+      "PackagePath": "staticwebassets\\img\\Equipes\\Ibis_Logo_2011.png"
+    },
+    {
+      "Id": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Banco de Dados\\projeto-gamer\\wwwroot\\img\\Equipes\\dell-logo-1-1.png",
+      "PackagePath": "staticwebassets\\img\\Equipes\\dell-logo-1-1.png"
+    },
+    {
+      "Id": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Banco de Dados\\projeto-gamer\\wwwroot\\img\\Equipes\\fd43e5fc-a712-4551-aea4-282b1ef2cc79.png",
+      "PackagePath": "staticwebassets\\img\\Equipes\\fd43e5fc-a712-4551-aea4-282b1ef2cc79.png"
+    },
+    {
+      "Id": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Banco de Dados\\projeto-gamer\\wwwroot\\img\\Equipes\\liverpool-football-club-512.png",
+      "PackagePath": "staticwebassets\\img\\Equipes\\liverpool-football-club-512.png"
+    },
+    {
+      "Id": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Banco de Dados\\projeto-gamer\\wwwroot\\img\\Equipes\\logo-do-corinthians-4096.png",
+      "PackagePath": "staticwebassets\\img\\Equipes\\logo-do-corinthians-4096.png"
+    },
+    {
       "Id": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Banco de Dados\\projeto-gamer\\wwwroot\\img\\Equipes\\logo-gremio-256.png",
       "PackagePath": "staticwebassets\\img\\Equipes\\logo-gremio-256.png"
+    },
+    {
+      "Id": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Banco de Dados\\projeto-gamer\\wwwroot\\img\\Equipes\\padrao.png",
+      "PackagePath": "staticwebassets\\img\\Equipes\\padrao.png"
     },
     {
       "Id": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Banco de Dados\\projeto-gamer\\wwwroot\\js\\site.js",
