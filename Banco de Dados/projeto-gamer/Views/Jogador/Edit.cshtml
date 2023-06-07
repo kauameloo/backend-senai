@@ -7,7 +7,7 @@
 <h2>Edição de Jogador</h2>
 
 <form method="post" action="@Url.Action("Atualizar")" enctype="multipart/form-data">
-    <input type="hidden" name="IdJogador" id="@ViewBag.Jogador.IdJogador">
+    <input type="hidden" name="IdJogador" value="@ViewBag.Jogador.IdJogador">
 
     <label for="">Nome</label>
     <input type="text" name="Nome" value="@ViewBag.Jogador.Nome" required>
@@ -19,7 +19,7 @@
     <input type="password" name="Senha" value="@ViewBag.Jogador.Senha" required>
 
     <label for="">Equipe</label>
-    <select name="" id="">
+    <select name="IdEquipe" id="IdEquipe">
         <option value="0">Selecione uma opcao</option>
         @foreach (var item in ViewBag.Equipe)
         {

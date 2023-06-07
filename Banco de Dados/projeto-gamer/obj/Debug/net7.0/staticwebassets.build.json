@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ymfjcUmXIBngwpmfCR7/6I9wbIHBsvj5xTQdzr/qADY=",
+  "Hash": "BkA1l4ba5sku4r2J40zobTd5/zyKwdsLO+eDgImsaec=",
   "Source": "projeto-gamer",
   "BasePath": "_content/projeto-gamer",
   "Mode": "Default",
@@ -83,23 +83,6 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
-    },
-    {
-      "Identity": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Banco de Dados\\projeto-gamer\\wwwroot\\img\\Equipes\\dell-logo-1-1.png",
-      "SourceId": "projeto-gamer",
-      "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Banco de Dados\\projeto-gamer\\wwwroot\\",
-      "BasePath": "_content/projeto-gamer",
-      "RelativePath": "img/Equipes/dell-logo-1-1.png",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Primary",
-      "RelatedAsset": "",
-      "AssetTraitName": "",
-      "AssetTraitValue": "",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "wwwroot\\img\\Equipes\\dell-logo-1-1.png"
     },
     {
       "Identity": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Banco de Dados\\projeto-gamer\\wwwroot\\img\\Equipes\\fd43e5fc-a712-4551-aea4-282b1ef2cc79.png",

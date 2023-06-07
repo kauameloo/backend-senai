@@ -24,6 +24,7 @@ namespace projeto_gamer.Controllers
         [Route("Listar")]
         public IActionResult Index()
         {
+            ViewBag.Username = HttpContext.Session.GetString("Username");
             // mochila que contém lista de jogadores
             ViewBag.Jogador = c.Jogador.ToList();
 
@@ -66,27 +67,32 @@ namespace projeto_gamer.Controllers
         [Route("Editar/{id}")]
         public IActionResult Edit(int id)
         {
+            ViewBag.Username = HttpContext.Session.GetString("Username");
+            
             Jogador j = c.Jogador.First(j => j.IdJogador == id);
 
             ViewBag.Jogador = j;
+            ViewBag.Equipe = c.Equipe.ToList();
 
             return View("Edit");
         }
 
         [Route("Atualizar")]
-        public IActionResult Atualizar(IFormCollection form, Jogador j)
+        public IActionResult Atualizar(IFormCollection form, Jogador e)
         {
             Jogador novoJogador = new Jogador();
 
-            novoJogador.Nome = j.Nome;
-            novoJogador.Email = j.Email;
-            novoJogador.Senha = j.Senha;
+            novoJogador.Nome = e.Nome;
+            novoJogador.Email = e.Email;
+            novoJogador.Senha = e.Senha;
+            novoJogador.IdEquipe = e.IdEquipe;
 
-            Jogador jogador = c.Jogador.First(x => x.IdJogador == j.IdJogador);
+            Jogador jogador = c.Jogador.First(x => x.IdJogador == novoJogador.IdJogador);
 
             jogador.Nome = novoJogador.Nome;
             jogador.Email = novoJogador.Email;
             jogador.Senha = novoJogador.Senha;
+            jogador.IdEquipe = novoJogador.IdEquipe;
 
             c.Jogador.Update(jogador);
 
