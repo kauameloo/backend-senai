@@ -53,7 +53,7 @@ namespace projeto_gamer.Controllers
         public IActionResult Logout()
         {
             HttpContext.Session.Remove("Username");
-            return LocalRedirect("~/");
+            return LocalRedirect("~/Login/Login");
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

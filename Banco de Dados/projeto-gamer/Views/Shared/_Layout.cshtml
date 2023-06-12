@@ -22,24 +22,44 @@
                 <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
                     <ul class="navbar-nav flex-grow-1">
                         @* <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Home" asp-action="Index">Home</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Home"
-                                asp-action="Privacy">Privacy</a>
+                        <a class="nav-link text-dark" asp-area="" asp-controller="Home"
+                        asp-action="Privacy">Privacy</a>
                         </li> *@
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Equipe"
-                                asp-action="Index">Equipes</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Jogador"
-                                asp-action="Index">Jogadores</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link text-dark" asp-area="" asp-controller="Login"
-                                asp-action="Index">Login</a>
-                        </li>
+                        @if (ViewBag.Username != null)
+                        {
+
+
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Equipe"
+                                    asp-action="Index">Equipes</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Jogador"
+                                    asp-action="Index">Jogadores</a>
+                            </li>
+                            <div class="navbar-collapse collapse d-sm-inline-flex">
+                                <ul class="navbar-nav flex-grow-1 justify-content-end">
+                                    <li class="nav-item nav-link">Olá <span
+                                            style="color: blue; text-transform: uppercase;">@ViewBag.Username</span>, seja
+                                        bem-vindo
+                                    </li>
+                                    <li class="nav-item">
+                                        <a class="nav-link text-dark" asp-area="" asp-controller="Login"
+                                            asp-action="Logout">Logout</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        }
+                        else
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-dark" asp-area="" asp-controller="Login"
+                                    asp-action="Index">Login</a>
+                            </li>
+                        }
                     </ul>
                 </div>
             </div>

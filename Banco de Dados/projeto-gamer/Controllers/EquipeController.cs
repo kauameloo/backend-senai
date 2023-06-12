@@ -26,6 +26,7 @@ namespace projeto_gamer.Controllers
         public IActionResult Index()
         {
             ViewBag.Username = HttpContext.Session.GetString("Username");
+
             // "mochila" que contém a lista das equipes
             // podemos usar essa "mochila" na view de Equipe
             ViewBag.Equipe = c.Equipe.ToList();
