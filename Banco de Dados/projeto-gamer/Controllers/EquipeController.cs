@@ -19,6 +19,8 @@ namespace projeto_gamer.Controllers
         {
             _logger = logger;
         }
+        [TempData]
+        public string Message { get; set; }
 
         // Instância do objeto da classe Context
         Context c = new Context();
@@ -27,12 +29,22 @@ namespace projeto_gamer.Controllers
         {
             ViewBag.Username = HttpContext.Session.GetString("Username");
 
-            // "mochila" que contém a lista das equipes
-            // podemos usar essa "mochila" na view de Equipe
-            ViewBag.Equipe = c.Equipe.ToList();
+            // se não tiver um usuario logado
+            if (ViewBag.Username == null)
+            {
+                // ir para a pagina de login
+                Message = "Acesso Negado! Efetue login para acessar esta página..";
+                return LocalRedirect("~/Login/Login");
+            }
+            else
+            {
+                // "mochila" que contém a lista das equipes
+                // podemos usar essa "mochila" na view de Equipe
+                ViewBag.Equipe = c.Equipe.ToList();
 
-            // retorna a view da Equipe
-            return View();
+                // retorna a view da Equipe
+                return View();
+            }
         }
 
         [Route("Cadastrar")]
@@ -101,12 +113,22 @@ namespace projeto_gamer.Controllers
         public IActionResult Edit(int id)
         {
             ViewBag.Username = HttpContext.Session.GetString("Username");
-            
+
             Equipe e = c.Equipe.First(e => e.IdEquipe == id);
 
             ViewBag.Equipe = e;
 
-            return View("Edit");
+            // se não tiver um usuario logado
+            if (ViewBag.Username == null)
+            {
+                // ir para a pagina de login
+                Message = "Acesso Negado! Efetue login para acessar esta página..";
+                return LocalRedirect("~/Login/Login");
+            }
+            else
+            {
+                return View("Edit");
+            }
         }
 
 

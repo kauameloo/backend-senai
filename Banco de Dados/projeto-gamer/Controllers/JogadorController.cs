@@ -19,20 +19,33 @@ namespace projeto_gamer.Controllers
         {
             _logger = logger;
         }
+        [TempData]
+        public string Message { get; set; }
 
         Context c = new Context();
         [Route("Listar")]
         public IActionResult Index()
         {
             ViewBag.Username = HttpContext.Session.GetString("Username");
-            // mochila que contém lista de jogadores
-            ViewBag.Jogador = c.Jogador.ToList();
 
-            // mochila que contém lista de equipes
-            ViewBag.Equipe = c.Equipe.ToList();
+            // se não tiver um usuario logado
+            if (ViewBag.Username == null)
+            {
+                // ir para a pagina de login
+                Message = "Acesso Negado! Efetue login para acessar esta página..";
+                return LocalRedirect("~/Login/Login");
+            }
+            else
+            {
+                // mochila que contém lista de jogadores
+                ViewBag.Jogador = c.Jogador.ToList();
 
-            // retorna view do jogador
-            return View();
+                // mochila que contém lista de equipes
+                ViewBag.Equipe = c.Equipe.ToList();
+
+                // retorna view do jogador
+                return View();
+            }
         }
 
         [Route("Cadastrar")]
@@ -68,13 +81,23 @@ namespace projeto_gamer.Controllers
         public IActionResult Edit(int id)
         {
             ViewBag.Username = HttpContext.Session.GetString("Username");
-            
+
             Jogador j = c.Jogador.First(j => j.IdJogador == id);
 
             ViewBag.Jogador = j;
             ViewBag.Equipe = c.Equipe.ToList();
 
-            return View("Edit");
+            // se não tiver um usuario logado
+            if (ViewBag.Username == null)
+            {
+                // ir para a pagina de login
+                Message = "Acesso Negado! Efetue login para acessar esta página..";
+                return LocalRedirect("~/Login/Login");
+            }
+            else
+            {
+                return View("Edit");
+            }
         }
 
         [Route("Atualizar")]
