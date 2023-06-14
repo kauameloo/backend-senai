@@ -1,20 +1,51 @@
 @model Jogador
+<link rel="stylesheet" href="~/css/login.css" asp-append-version="true">
 
 @{
     ViewData["Title"] = "Login";
 }
 
-<h1 class="container text-center">Tela de Login</h1>
+@* <h1 class="container text-center">Tela de Login</h1>
 <h2 class="container text-center text-lowercase fs-6 fst-italic text-primary-emphasis text-danger">
-    @TempData.Peek("Message")
+@TempData.Peek("Message")
 </h2>
 
 <form class="container text-center" method="post" action="@Url.Action("Logar")">
-    <label for="">Email</label>
-    <input type="email" name="Email" required>
+<label for="">Email</label>
+<input type="email" name="Email" required>
 
-    <label for="">Senha</label>
-    <input type="password" name="Senha" required>
+<label for="">Senha</label>
+<input type="password" name="Senha" required>
 
-    <button type="submit">Logar</button>
-</form>
+<button type="submit">Logar</button>
+</form> *@
+
+<!-- FORMULÁRIO DE LOGIN -->
+<main class="fundo-login">
+    <div class="bkg-login">
+        <form class="frm-login" method="post" action="@Url.Action("Logar")">
+            <div class="login-title">
+                <hr class="login-line">
+                <h1>Login</h1>
+            </div>
+
+            <div class="frm-linha">
+                <div class="bkg-input">
+                    <img src="~/assets/vector-user.svg" alt="ícone de usuário">
+                    <input type="email" name="Email" id="email" placeholder="Digite seu e-mail:" required>
+                </div>
+            </div>
+            <div class="frm-linha">
+                <div class="bkg-input">
+                    <img src="~/assets/vector-key.svg" alt="ícone de chave">
+                    <input type="password" name="Senha" id="password" placeholder="Digite sua senha:" required>
+                </div>
+            </div>
+            <h2 class="container text-center text-lowercase fs-6 fst-italic text-primary-emphasis text-danger">
+                @TempData.Peek("Message")
+            </h2>
+            <button class="btn-logar" type="submit">Logar</button>
+        </form>
+    </div>
+
+</main>
