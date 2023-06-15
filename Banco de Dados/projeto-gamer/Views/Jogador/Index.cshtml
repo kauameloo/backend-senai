@@ -66,9 +66,12 @@ else
                             <td>@jogador.IdJogador</td>
                             <td>@jogador.Nome</td>
                             <td>@jogador.Email</td>
-                            <td>
+                            <td id="del-edit">
                                 <a asp-area="" asp-controller="Jogador" asp-action="Excluir" asp-route-id="@jogador.IdJogador">
                                     <img class="yellow-trash" src="~/assets/trash.png" alt="">
+                                </a>
+                                <a asp-area="" asp-controller="Jogador" asp-action="Edit" asp-route-id="@jogador.IdJogador">
+                                    <img class="yellow-trash" src="~/assets/editaricon.svg" alt="">
                                 </a>
                             </td>
                         </tr>

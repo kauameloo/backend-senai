@@ -1,10 +1,10 @@
 @model Equipe
-
+<link rel="stylesheet" href="~/css/equipes.css" asp-append-version="true">
 @{
     ViewData["Title"] = "Edit";
 }
 
-<h2>Edição de Equipes</h2>
+@* <h2>Edição de Equipes</h2> *@
 
 @if (ViewBag.Username == null)
 {
@@ -12,18 +12,56 @@
 }
 else
 {
-
+    @*
 <form method="post" action="@Url.Action("Atualizar")" enctype="multipart/form-data">
 
-    <input type="hidden" name="IdEquipe" value="@ViewBag.Equipe.IdEquipe">
+<input type="hidden" name="IdEquipe" value="@ViewBag.Equipe.IdEquipe">
 
-    <label for="">Nome</label>
-    <input type="text" name="Nome" value="@ViewBag.Equipe.Nome" required>
+<label for="">Nome</label>
+<input type="text" name="Nome" value="@ViewBag.Equipe.Nome" required>
 
-    <label for="">Imagem</label>
-    <input type="file" name="Imagem" value="@ViewBag.Equipe.Imagem">
+<label for="">Imagem</label>
+<input type="file" name="Imagem" value="@ViewBag.Equipe.Imagem">
 
-    <button type="submit">Atualizar</button>
+<button type="submit">Atualizar</button>
 
-</form>
+</form> *@
+
+    <!-- MAIN -->
+    <main>
+
+        <section class="container-grid cadastro-equipes">
+
+
+            <form class="frm-cad-equipe" method="post" action="@Url.Action("Atualizar")" enctype="multipart/form-data">
+                <div class="cadequipe-titulo">
+                    <h1>Edição de Equipes</h1>
+                    <hr>
+                </div>
+
+                @* <input class="campo-entrada" type="number" id="idEquipe" placeholder="Digite o Id da sua equipe:"> *@
+                <input type="hidden" name="IdEquipe" value="@ViewBag.Equipe.IdEquipe">
+                <input class="campo-entrada" name="Nome" type="text" placeholder="Digite o nome da sua equipe:" value="@ViewBag.Equipe.Nome" required>
+                <label class="foto" for="foto-file">
+                    @* Nenhuma imagem selecionada... *@
+                    @* <input type="file" name="Imagem" id="foto-file"> *@
+                    <input type="file" name="Imagem" id="foto-file" value="@ViewBag.Equipe.Imagem" onchange="mostrarNomeArquivo(this)">
+                    <span id="nome-arquivo">Nenhuma imagem selecionada...</span>
+                </label>
+
+                <button type="submit">Atualizar</button>
+            </form>
+    </main>
 }
+
+@* mostrar nome do arquivo ao dar upload *@
+<script>
+    function mostrarNomeArquivo(input) {
+        if (input.files.length > 0) {
+            var nomeArquivo = input.files[0].name;
+            document.getElementById("nome-arquivo").textContent = nomeArquivo;
+        } else {
+            document.getElementById("nome-arquivo").textContent = "Nenhuma imagem selecionada...";
+        }
+    }
+</script>

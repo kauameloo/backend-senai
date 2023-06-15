@@ -13,6 +13,10 @@
       "PackagePath": "staticwebassets\\assets\\Botao_voltar_ao_topo.svg"
     },
     {
+      "Id": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Banco de Dados\\projeto-gamer\\wwwroot\\assets\\editaricon.svg",
+      "PackagePath": "staticwebassets\\assets\\editaricon.svg"
+    },
+    {
       "Id": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Banco de Dados\\projeto-gamer\\wwwroot\\assets\\envelope-icon.png",
       "PackagePath": "staticwebassets\\assets\\envelope-icon.png"
     },
@@ -369,12 +373,20 @@
       "PackagePath": "staticwebassets\\img\\Equipes\\liverpool-football-club-512.png"
     },
     {
+      "Id": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Banco de Dados\\projeto-gamer\\wwwroot\\img\\Equipes\\logo-do-corinthians-1536.png",
+      "PackagePath": "staticwebassets\\img\\Equipes\\logo-do-corinthians-1536.png"
+    },
+    {
       "Id": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Banco de Dados\\projeto-gamer\\wwwroot\\img\\Equipes\\logo-do-corinthians-4096.png",
       "PackagePath": "staticwebassets\\img\\Equipes\\logo-do-corinthians-4096.png"
     },
     {
       "Id": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Banco de Dados\\projeto-gamer\\wwwroot\\img\\Equipes\\logo-gremio-256.png",
       "PackagePath": "staticwebassets\\img\\Equipes\\logo-gremio-256.png"
+    },
+    {
+      "Id": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Banco de Dados\\projeto-gamer\\wwwroot\\img\\Equipes\\logo-nba-2048.png",
+      "PackagePath": "staticwebassets\\img\\Equipes\\logo-nba-2048.png"
     },
     {
       "Id": "C:\\Users\\44506315871\\Desktop\\backend-senai\\Banco de Dados\\projeto-gamer\\wwwroot\\img\\Equipes\\padrao.png",

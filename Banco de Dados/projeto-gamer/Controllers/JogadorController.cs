@@ -110,7 +110,7 @@ namespace projeto_gamer.Controllers
             novoJogador.Senha = e.Senha;
             novoJogador.IdEquipe = e.IdEquipe;
 
-            Jogador jogador = c.Jogador.First(x => x.IdJogador == novoJogador.IdJogador);
+            Jogador jogador = c.Jogador.First(x => x.IdJogador == e.IdJogador);
 
             jogador.Nome = novoJogador.Nome;
             jogador.Email = novoJogador.Email;
