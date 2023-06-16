@@ -29,6 +29,9 @@
                 <h1>Login</h1>
             </div>
 
+            <h2 id="mensagem-erro">
+                @TempData.Peek("Message")
+            </h2>
             <div class="frm-linha">
                 <div class="bkg-input">
                     <img src="~/assets/vector-user.svg" alt="ícone de usuário">
@@ -41,9 +44,10 @@
                     <input type="password" name="Senha" id="password" placeholder="Digite sua senha:" required>
                 </div>
             </div>
-            <h2 class="container text-center text-lowercase fs-6 fst-italic text-primary-emphasis text-danger">
-                @TempData.Peek("Message")
-            </h2>
+
+
+
+
             <button class="btn-logar" type="submit">Logar</button>
         </form>
     </div>

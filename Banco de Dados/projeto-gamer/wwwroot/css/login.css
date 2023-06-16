@@ -97,13 +97,14 @@ body {
     background-image: url(../images/background-login-mobile.png);
     background-position: left top;
     background-repeat: no-repeat;
+    background-size: cover;
 }
 
 .bkg-login {
     /*aqui vai a borda gradient*/
     width: 100%;
     max-width: 320px;
-    height: 400px;
+    height: 436px;
     padding: 1px;
     /* border: 1px solid white; */
     border-radius: 8px;
@@ -145,6 +146,13 @@ body {
     margin-bottom: 40px;
     background-image: linear-gradient(to right, rgba(255, 255, 255, .4), rgba(255, 255, 255, 0.1));
     border-radius: 10px;
+}
+
+.frm-login #mensagem-erro {
+    font-size: small;
+    color: red;
+    padding-bottom: 5px;
+    text-align: center;
 }
 
 .frm-login .frm-linha .bkg-input {
